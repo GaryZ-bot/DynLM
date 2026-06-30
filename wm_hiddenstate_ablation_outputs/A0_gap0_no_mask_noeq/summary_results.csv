@@ -1,0 +1,46 @@
+task_type,difficulty,model,score,normalized_error
+forward,easy,Oracle simulator,1.0,0.0
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855062
+forward,easy,gpt-4o,0.9658674315288636,0.036894865181953014
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431
+forward,easy,Random baseline,0.14402950587784427,6.872609523027517
+forward,hard,Oracle simulator,1.0,0.0
+forward,hard,gpt-4o,0.7767828541641819,0.38752291800425476
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606
+forward,hard,Curve-fit baseline,0.39965028334548314,1.6722294855321482
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021
+forward,medium,Oracle simulator,1.0,0.0
+forward,medium,gpt-4o,0.9330796302621006,0.0751174156405035
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109
+forward,medium,Random baseline,0.20648964866309844,4.898547768103365
+inverse,easy,Oracle simulator,1.0,0.0
+inverse,easy,Curve-fit baseline,0.7554347388470342,0.3316522986079731
+inverse,easy,Last-value baseline,0.7554347388470342,0.3316522986079731
+inverse,easy,gpt-4o,0.30218137519939237,3.34963687850438
+inverse,easy,Random baseline,0.24240132063486586,5.890659759705933
+inverse,hard,Oracle simulator,1.0,0.0
+inverse,hard,Curve-fit baseline,0.40110338450151795,1.8873138229471396
+inverse,hard,Last-value baseline,0.40110338450151795,1.8873138229471396
+inverse,hard,gpt-4o,0.3360516232964779,2.864236369979672
+inverse,hard,Random baseline,0.32427109693659334,3.350680186214531
+inverse,medium,Oracle simulator,1.0,0.0
+inverse,medium,Curve-fit baseline,0.7859364495570361,0.31548381839364165
+inverse,medium,Last-value baseline,0.7859364495570361,0.31548381839364165
+inverse,medium,gpt-4o,0.2501283139923094,4.096356232363155
+inverse,medium,Random baseline,0.21967267322293144,5.571016751653293
+rollout,easy,Oracle simulator,1.0,0.0
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.10785348219451814
+rollout,easy,gpt-4o,0.8756083529999787,0.15124260671033884
+rollout,easy,Last-value baseline,0.7080240879000266,0.44325313881278394
+rollout,easy,Random baseline,0.18860248815434985,4.333909364215959
+rollout,hard,Oracle simulator,1.0,0.0
+rollout,hard,Last-value baseline,0.18513992292286488,4.795226879354985
+rollout,hard,gpt-4o,0.1766958813082512,4.973216057531164
+rollout,hard,Curve-fit baseline,0.15722846997873371,5.5593045644773955
+rollout,hard,Random baseline,0.09557644580590936,10.022264296272098
+rollout,medium,Oracle simulator,1.0,0.0
+rollout,medium,gpt-4o,0.642243732595123,0.6332202090849245
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577
+rollout,medium,Last-value baseline,0.518537532872119,1.0403704644831093
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605

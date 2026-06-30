@@ -1,0 +1,226 @@
+task_type,difficulty,model,score,normalized_error,ablation_name,inverse_gap,inverse_mask_mode,inverse_visible_interval,reveal_equations,description
+forward,easy,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,easy,gpt-4o,0.9658674315288636,0.036894865181953,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,easy,Random baseline,0.1440295058778442,6.872609523027517,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,hard,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,hard,gpt-4o,0.7767828541641819,0.3875229180042547,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,hard,Curve-fit baseline,0.3996502833454831,1.6722294855321482,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,medium,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,medium,gpt-4o,0.9330796302621006,0.0751174156405035,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,medium,Random baseline,0.2064896486630984,4.898547768103365,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,easy,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,easy,Curve-fit baseline,0.7554347388470342,0.3316522986079731,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,easy,Last-value baseline,0.7554347388470342,0.3316522986079731,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,easy,gpt-4o,0.3021813751993923,3.34963687850438,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,easy,Random baseline,0.2424013206348658,5.890659759705933,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,hard,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,hard,Curve-fit baseline,0.4011033845015179,1.8873138229471396,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,hard,Last-value baseline,0.4011033845015179,1.8873138229471396,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,hard,gpt-4o,0.3360516232964779,2.864236369979672,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,hard,Random baseline,0.3242710969365933,3.350680186214531,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,medium,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,medium,Curve-fit baseline,0.7859364495570361,0.3154838183936416,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,medium,Last-value baseline,0.7859364495570361,0.3154838183936416,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,medium,gpt-4o,0.2501283139923094,4.096356232363155,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+inverse,medium,Random baseline,0.2196726732229314,5.571016751653293,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,easy,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.1078534821945181,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,easy,gpt-4o,0.8756083529999787,0.1512426067103388,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,easy,Last-value baseline,0.7080240879000266,0.4432531388127839,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,easy,Random baseline,0.1886024881543498,4.333909364215959,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,hard,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,hard,Last-value baseline,0.1851399229228648,4.795226879354985,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,hard,gpt-4o,0.1766958813082512,4.973216057531164,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,hard,Curve-fit baseline,0.1572284699787337,5.5593045644773955,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,hard,Random baseline,0.0955764458059093,10.022264296272098,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,medium,Oracle simulator,1.0,0.0,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,medium,gpt-4o,0.642243732595123,0.6332202090849245,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,medium,Last-value baseline,0.518537532872119,1.040370464483109,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+forward,easy,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,easy,gpt-4o,0.9652546990567274,0.0375837540708419,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,easy,Random baseline,0.1440295058778442,6.872609523027517,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,hard,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,hard,gpt-4o,0.7785084465021488,0.4016251402264769,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,hard,Curve-fit baseline,0.3996502833454831,1.6722294855321482,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,medium,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,medium,gpt-4o,0.9341196791106974,0.0739596378627257,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,medium,Random baseline,0.2064896486630984,4.898547768103365,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,easy,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,easy,Curve-fit baseline,0.7682127387940612,0.309418093937818,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,easy,Last-value baseline,0.7428409681671408,0.3528415892190986,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,easy,Random baseline,0.2424013206348658,5.890659759705933,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,easy,gpt-4o,0.1962021946599167,4.682632909884848,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,hard,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,hard,Last-value baseline,0.5909830117837586,0.8183843268599955,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,hard,Curve-fit baseline,0.4417209509869788,1.542994025332816,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,hard,Random baseline,0.3242710969365933,3.350680186214531,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,hard,gpt-4o,0.2156814899129047,3.878437628148968,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,medium,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,medium,Curve-fit baseline,0.8092897787699836,0.2695146915219235,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,medium,Last-value baseline,0.7211509373652982,0.4447076604886166,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,medium,Random baseline,0.2196726732229314,5.571016751653293,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+inverse,medium,gpt-4o,0.1813813420215647,4.7908006768076,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,easy,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.1078534821945181,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,easy,gpt-4o,0.8639074210167924,0.1674879870869181,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,easy,Last-value baseline,0.7080240879000266,0.4432531388127839,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,easy,Random baseline,0.1886024881543498,4.333909364215959,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,hard,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,hard,Last-value baseline,0.1851399229228648,4.795226879354985,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,hard,gpt-4o,0.1840894464653321,4.763401992161901,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,hard,Curve-fit baseline,0.1572284699787337,5.5593045644773955,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,hard,Random baseline,0.0955764458059093,10.022264296272098,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,medium,Oracle simulator,1.0,0.0,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,medium,gpt-4o,0.6247770813899867,0.6748371643798801,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,medium,Last-value baseline,0.518537532872119,1.040370464483109,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+forward,easy,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,easy,gpt-4o,0.966269769847252,0.0365410014051529,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,easy,Random baseline,0.1440295058778442,6.872609523027517,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,hard,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,hard,gpt-4o,0.7734635873065057,0.4061673624486992,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,hard,Curve-fit baseline,0.3996502833454831,1.6722294855321482,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,medium,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,medium,gpt-4o,0.935498811191488,0.0728129711960591,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,medium,Random baseline,0.2064896486630984,4.898547768103365,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,easy,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,easy,Curve-fit baseline,0.7862776600412855,0.2780130275314005,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,easy,Last-value baseline,0.7417626133889539,0.3545972689509563,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,easy,Random baseline,0.2424013206348658,5.890659759705933,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,easy,gpt-4o,0.1896076285067513,4.939577354329293,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,hard,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,hard,Last-value baseline,0.5419051324122782,1.1023135877981534,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,hard,Curve-fit baseline,0.4751869107051961,1.2843776882615474,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,hard,Random baseline,0.3242710969365933,3.350680186214531,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,hard,gpt-4o,0.2366157629439929,3.524270961482301,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,medium,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,medium,Curve-fit baseline,0.8240998974747697,0.2389442645138958,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,medium,Last-value baseline,0.6571863307099582,0.5895747837577275,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,medium,Random baseline,0.2196726732229314,5.571016751653293,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+inverse,medium,gpt-4o,0.1645035303356186,5.3463562323631555,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,easy,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.1078534821945181,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,easy,gpt-4o,0.8717398702205961,0.1561926868358362,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,easy,Last-value baseline,0.7080240879000266,0.4432531388127839,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,easy,Random baseline,0.1886024881543498,4.333909364215959,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,hard,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,hard,Last-value baseline,0.1851399229228648,4.795226879354985,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,hard,gpt-4o,0.1831950381234877,4.786715552377476,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,hard,Curve-fit baseline,0.1572284699787337,5.5593045644773955,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,hard,Random baseline,0.0955764458059093,10.022264296272098,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,medium,Oracle simulator,1.0,0.0,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,medium,gpt-4o,0.6287114258266323,0.666782302268539,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,medium,Last-value baseline,0.518537532872119,1.040370464483109,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+forward,easy,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,easy,gpt-4o,0.9656453842223528,0.0371810014051529,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,easy,Random baseline,0.1440295058778442,6.872609523027517,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,hard,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,hard,gpt-4o,0.7752737218870184,0.3881806957820324,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,hard,Curve-fit baseline,0.3996502833454831,1.6722294855321482,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,medium,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,medium,gpt-4o,0.9308393141263998,0.0776618600849479,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,medium,Random baseline,0.2064896486630984,4.898547768103365,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,easy,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,easy,Curve-fit baseline,0.8455599255154961,0.1930621581877389,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,easy,Last-value baseline,0.7421303843512599,0.355392683756105,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,easy,Random baseline,0.2424013206348658,5.890659759705933,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,easy,gpt-4o,0.1748156274828595,5.015966243218182,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,hard,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,hard,Curve-fit baseline,0.5940099032810348,0.7695398445882439,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,hard,Random baseline,0.3242710969365933,3.350680186214531,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,hard,Last-value baseline,0.3111896360854114,2.516937255441761,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,hard,gpt-4o,0.2247985204925023,3.66315985037119,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,medium,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,medium,Curve-fit baseline,0.8803729345807692,0.1511296873148798,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,medium,Last-value baseline,0.5785190338342908,0.8048320258854349,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,medium,Random baseline,0.2196726732229314,5.571016751653293,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+inverse,medium,gpt-4o,0.1736537083832548,4.9088562323631555,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,easy,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.1078534821945181,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,easy,gpt-4o,0.8744639649607753,0.1511342394713542,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,easy,Last-value baseline,0.7080240879000266,0.4432531388127839,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,easy,Random baseline,0.1886024881543498,4.333909364215959,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,hard,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,hard,Last-value baseline,0.1851399229228648,4.795226879354985,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,hard,gpt-4o,0.1778627244849463,4.939852648620583,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,hard,Curve-fit baseline,0.1572284699787337,5.5593045644773955,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,hard,Random baseline,0.0955764458059093,10.022264296272098,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,medium,Oracle simulator,1.0,0.0,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,medium,gpt-4o,0.6393891927278464,0.6287687423157141,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,medium,Last-value baseline,0.518537532872119,1.040370464483109,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+forward,easy,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,easy,Curve-fit baseline,0.9791358279744576,0.021748146635855,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,easy,gpt-4o,0.969655662783668,0.0327540337510498,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,easy,Last-value baseline,0.833475371242542,0.214100332577431,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,easy,Random baseline,0.1440295058778442,6.872609523027517,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,hard,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,hard,gpt-4o,0.7979618064842041,0.2912877662495524,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,hard,Last-value baseline,0.6589231640474176,0.6897008290469606,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,hard,Curve-fit baseline,0.3996502833454831,1.6722294855321482,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,hard,Random baseline,0.1219943179578397,8.190996849367021,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,medium,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,medium,gpt-4o,0.9494350212737817,0.0547825270486282,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,medium,Curve-fit baseline,0.8655567256116536,0.1696065306802665,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,medium,Last-value baseline,0.785984824269701,0.2979205696666109,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+forward,medium,Random baseline,0.2064896486630984,4.898547768103365,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,easy,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,easy,Curve-fit baseline,0.7862776600412855,0.2780130275314005,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,easy,Last-value baseline,0.7417626133889539,0.3545972689509563,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,easy,gpt-4o,0.2550346077760107,3.2736051321070705,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,easy,Random baseline,0.2424013206348658,5.890659759705933,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,hard,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,hard,Last-value baseline,0.5419051324122782,1.1023135877981534,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,hard,Curve-fit baseline,0.4751869107051961,1.2843776882615474,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,hard,Random baseline,0.3242710969365933,3.350680186214531,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,hard,gpt-4o,0.2224878132567173,3.7131598503711896,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,medium,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,medium,Curve-fit baseline,0.8240998974747697,0.2389442645138958,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,medium,Last-value baseline,0.6571863307099582,0.5895747837577275,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,medium,gpt-4o,0.2334277556918002,3.526911787918711,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+inverse,medium,Random baseline,0.2196726732229314,5.571016751653293,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,easy,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,easy,gpt-4o,0.9067341425940548,0.1056921057617826,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,easy,Curve-fit baseline,0.9063870520738286,0.1078534821945181,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,easy,Last-value baseline,0.7080240879000266,0.4432531388127839,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,easy,Random baseline,0.1886024881543498,4.333909364215959,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,hard,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,hard,gpt-4o,0.194055594114015,4.432390378152187,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,hard,Last-value baseline,0.1851399229228648,4.795226879354985,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,hard,Curve-fit baseline,0.1572284699787337,5.5593045644773955,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,hard,Random baseline,0.0955764458059093,10.022264296272098,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,medium,Oracle simulator,1.0,0.0,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,medium,gpt-4o,0.62462921895423,0.6598270280858413,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,medium,Curve-fit baseline,0.599706901341656,0.753657757271577,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,medium,Last-value baseline,0.518537532872119,1.040370464483109,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.
+rollout,medium,Random baseline,0.2056919265025465,3.881621562063605,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.

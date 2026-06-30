@@ -1,0 +1,1351 @@
+task_id,difficulty,model,horizon,mean_strain_error,mean_resistance_error
+R_easy_000,easy,Random baseline,1,0.1773265874290171,130.42572621928662
+R_easy_000,easy,Random baseline,5,0.14379188991670555,131.56133409777996
+R_easy_000,easy,Random baseline,10,0.13218283482424886,87.47931490014788
+R_easy_000,easy,Random baseline,20,0.11610289742254569,81.17060138442153
+R_easy_000,easy,Random baseline,30,0.104343072128089,75.6355416373905
+R_easy_000,easy,Last-value baseline,1,3.1241572097662207e-06,6.625236011050902
+R_easy_000,easy,Last-value baseline,5,3.1241572097662207e-06,8.429572996621644
+R_easy_000,easy,Last-value baseline,10,3.1241572097662207e-06,12.678599462159944
+R_easy_000,easy,Last-value baseline,20,3.1241572097662207e-06,14.985604769908182
+R_easy_000,easy,Last-value baseline,30,3.1241572097662207e-06,12.246540048909386
+R_easy_000,easy,Curve-fit baseline,1,3.1241572097662207e-06,1.9269031183829384
+R_easy_000,easy,Curve-fit baseline,5,3.1241572097662207e-06,2.8373275876520694
+R_easy_000,easy,Curve-fit baseline,10,3.1241572097662207e-06,3.2840748386829643
+R_easy_000,easy,Curve-fit baseline,20,3.1241572097662207e-06,7.557955431847489
+R_easy_000,easy,Curve-fit baseline,30,3.1241572097662207e-06,10.449641815038843
+R_easy_000,easy,Oracle simulator,1,0.0,0.0
+R_easy_000,easy,Oracle simulator,5,0.0,0.0
+R_easy_000,easy,Oracle simulator,10,0.0,0.0
+R_easy_000,easy,Oracle simulator,20,0.0,0.0
+R_easy_000,easy,Oracle simulator,30,0.0,0.0
+R_easy_001,easy,Random baseline,1,0.0484384790980433,127.76576410849736
+R_easy_001,easy,Random baseline,5,0.11702355604702327,92.06031363771369
+R_easy_001,easy,Random baseline,10,0.10252674470758003,93.89444810177442
+R_easy_001,easy,Random baseline,20,0.09360827446481858,91.08089689430915
+R_easy_001,easy,Random baseline,30,0.10533911174061925,84.28956821501477
+R_easy_001,easy,Last-value baseline,1,2.504422135646278e-06,4.89767643868737
+R_easy_001,easy,Last-value baseline,5,2.504422135646278e-06,4.5234999198740695
+R_easy_001,easy,Last-value baseline,10,2.504422135646278e-06,5.195981852520811
+R_easy_001,easy,Last-value baseline,20,2.504422135646278e-06,6.945892477966339
+R_easy_001,easy,Last-value baseline,30,2.504422135646278e-06,6.388414724789559
+R_easy_001,easy,Curve-fit baseline,1,2.504422135646278e-06,1.1647037548162302
+R_easy_001,easy,Curve-fit baseline,5,2.504422135646278e-06,1.272895156077834
+R_easy_001,easy,Curve-fit baseline,10,2.504422135646278e-06,1.7199254352220195
+R_easy_001,easy,Curve-fit baseline,20,2.504422135646278e-06,2.923595171284591
+R_easy_001,easy,Curve-fit baseline,30,2.504422135646278e-06,3.860699902383095
+R_easy_001,easy,Oracle simulator,1,0.0,0.0
+R_easy_001,easy,Oracle simulator,5,0.0,0.0
+R_easy_001,easy,Oracle simulator,10,0.0,0.0
+R_easy_001,easy,Oracle simulator,20,0.0,0.0
+R_easy_001,easy,Oracle simulator,30,0.0,0.0
+R_easy_002,easy,Random baseline,1,0.29107645265339854,157.11057759237
+R_easy_002,easy,Random baseline,5,0.22580544183351042,97.40863526451508
+R_easy_002,easy,Random baseline,10,0.16602842040483462,65.84673643812557
+R_easy_002,easy,Random baseline,20,0.15994162928143657,67.61563383583427
+R_easy_002,easy,Random baseline,30,0.16185676834271875,81.2774319945747
+R_easy_002,easy,Last-value baseline,1,9.734763243007816e-07,0.8538998152957902
+R_easy_002,easy,Last-value baseline,5,9.734763243007816e-07,7.102638804974913
+R_easy_002,easy,Last-value baseline,10,9.734763243007816e-07,15.669746434822803
+R_easy_002,easy,Last-value baseline,20,7.301072432255862e-07,12.258237189834443
+R_easy_002,easy,Last-value baseline,30,4.867381621503908e-07,9.654244304076629
+R_easy_002,easy,Curve-fit baseline,1,9.734763243007816e-07,1.336998122961262
+R_easy_002,easy,Curve-fit baseline,5,9.734763243007816e-07,1.7233464309965854
+R_easy_002,easy,Curve-fit baseline,10,9.734763243007816e-07,2.5805099233472264
+R_easy_002,easy,Curve-fit baseline,20,7.301072432255862e-07,3.4807505843827484
+R_easy_002,easy,Curve-fit baseline,30,4.867381621503908e-07,4.087329740585907
+R_easy_002,easy,Oracle simulator,1,0.0,0.0
+R_easy_002,easy,Oracle simulator,5,0.0,0.0
+R_easy_002,easy,Oracle simulator,10,0.0,0.0
+R_easy_002,easy,Oracle simulator,20,0.0,0.0
+R_easy_002,easy,Oracle simulator,30,0.0,0.0
+R_easy_003,easy,Random baseline,1,0.18038704333661856,121.55159998363915
+R_easy_003,easy,Random baseline,5,0.13324718484171477,55.56676825851586
+R_easy_003,easy,Random baseline,10,0.10695240493174166,74.48256091251761
+R_easy_003,easy,Random baseline,20,0.10608699326972329,84.85348651221575
+R_easy_003,easy,Random baseline,30,0.0992922924108705,84.58244588412322
+R_easy_003,easy,Last-value baseline,1,1.3726649797651813e-06,6.350432077568925
+R_easy_003,easy,Last-value baseline,5,1.3726649797651813e-06,10.144385188620234
+R_easy_003,easy,Last-value baseline,10,1.372664979779059e-06,7.69924528347688
+R_easy_003,easy,Last-value baseline,20,1.372664979785998e-06,10.597251553706704
+R_easy_003,easy,Last-value baseline,30,1.372664979788311e-06,22.427974931676637
+R_easy_003,easy,Curve-fit baseline,1,1.3726649797651813e-06,2.3682457042663856
+R_easy_003,easy,Curve-fit baseline,5,1.3726649797651813e-06,3.6962527612671296
+R_easy_003,easy,Curve-fit baseline,10,1.372664979779059e-06,4.008030227623593
+R_easy_003,easy,Curve-fit baseline,20,1.372664979785998e-06,5.629554440516278
+R_easy_003,easy,Curve-fit baseline,30,1.372664979788311e-06,9.298324994475236
+R_easy_003,easy,Oracle simulator,1,0.0,0.0
+R_easy_003,easy,Oracle simulator,5,0.0,0.0
+R_easy_003,easy,Oracle simulator,10,0.0,0.0
+R_easy_003,easy,Oracle simulator,20,0.0,0.0
+R_easy_003,easy,Oracle simulator,30,0.0,0.0
+R_easy_004,easy,Random baseline,1,0.0391160224411855,41.184400085450434
+R_easy_004,easy,Random baseline,5,0.08953258852174438,22.804043071476077
+R_easy_004,easy,Random baseline,10,0.08004021545760263,43.11878828335528
+R_easy_004,easy,Random baseline,20,0.10173797312755357,69.4735330319995
+R_easy_004,easy,Random baseline,30,0.11809843446993475,64.67259185703263
+R_easy_004,easy,Last-value baseline,1,7.83623962108404e-07,0.913528965799216
+R_easy_004,easy,Last-value baseline,5,7.83623962108404e-07,7.900292264243836
+R_easy_004,easy,Last-value baseline,10,7.83623962108404e-07,8.2524189534823
+R_easy_004,easy,Last-value baseline,20,7.83623962108404e-07,11.418027983376449
+R_easy_004,easy,Last-value baseline,30,7.83623962108404e-07,15.928234900371315
+R_easy_004,easy,Curve-fit baseline,1,7.83623962108404e-07,1.4241968523062383
+R_easy_004,easy,Curve-fit baseline,5,7.83623962108404e-07,3.036515137371643
+R_easy_004,easy,Curve-fit baseline,10,7.83623962108404e-07,3.9381502528742884
+R_easy_004,easy,Curve-fit baseline,20,7.83623962108404e-07,5.928293955088086
+R_easy_004,easy,Curve-fit baseline,30,7.83623962108404e-07,8.628244452017729
+R_easy_004,easy,Oracle simulator,1,0.0,0.0
+R_easy_004,easy,Oracle simulator,5,0.0,0.0
+R_easy_004,easy,Oracle simulator,10,0.0,0.0
+R_easy_004,easy,Oracle simulator,20,0.0,0.0
+R_easy_004,easy,Oracle simulator,30,0.0,0.0
+R_easy_005,easy,Random baseline,1,0.11314702401097032,41.725116338966146
+R_easy_005,easy,Random baseline,5,0.16748096941105814,77.40108787575453
+R_easy_005,easy,Random baseline,10,0.1340497147175122,65.20217665716946
+R_easy_005,easy,Random baseline,20,0.14470308145585217,73.9478905856229
+R_easy_005,easy,Random baseline,30,0.12628986245336424,67.75657447892901
+R_easy_005,easy,Last-value baseline,1,3.6747607225079415e-06,9.976798008034578
+R_easy_005,easy,Last-value baseline,5,3.6747607225190436e-06,5.449134183279085
+R_easy_005,easy,Last-value baseline,10,3.3072846502682495e-06,5.86015132287468
+R_easy_005,easy,Last-value baseline,20,1.6536423251341247e-06,7.991750008626544
+R_easy_005,easy,Last-value baseline,30,1.102428216756083e-06,7.400327657051268
+R_easy_005,easy,Curve-fit baseline,1,3.6747607225079415e-06,5.738293843445831
+R_easy_005,easy,Curve-fit baseline,5,3.6747607225190436e-06,5.482847840630157
+R_easy_005,easy,Curve-fit baseline,10,3.3072846502682495e-06,6.739496998003643
+R_easy_005,easy,Curve-fit baseline,20,1.6536423251341247e-06,8.276443546166064
+R_easy_005,easy,Curve-fit baseline,30,1.102428216756083e-06,9.731601387532335
+R_easy_005,easy,Oracle simulator,1,0.0,0.0
+R_easy_005,easy,Oracle simulator,5,0.0,0.0
+R_easy_005,easy,Oracle simulator,10,0.0,0.0
+R_easy_005,easy,Oracle simulator,20,0.0,0.0
+R_easy_005,easy,Oracle simulator,30,0.0,0.0
+R_easy_006,easy,Random baseline,1,0.09220697350763363,72.033717626933
+R_easy_006,easy,Random baseline,5,0.09991019807743005,72.41976077341504
+R_easy_006,easy,Random baseline,10,0.13749240270682675,79.19341790263282
+R_easy_006,easy,Random baseline,20,0.13538349373807668,64.9558223875492
+R_easy_006,easy,Random baseline,30,0.1389040407150136,59.45698114933551
+R_easy_006,easy,Last-value baseline,1,4.790163636803069e-06,10.704003513470326
+R_easy_006,easy,Last-value baseline,5,4.790163636803069e-06,14.353659425270322
+R_easy_006,easy,Last-value baseline,10,4.790163636803069e-06,19.201581128285227
+R_easy_006,easy,Last-value baseline,20,4.790163636803069e-06,14.833873732841862
+R_easy_006,easy,Last-value baseline,30,4.790163636786415e-06,20.411733811976887
+R_easy_006,easy,Curve-fit baseline,1,4.790163636803069e-06,5.911419518516226
+R_easy_006,easy,Curve-fit baseline,5,4.790163636803069e-06,6.359557412740093
+R_easy_006,easy,Curve-fit baseline,10,4.790163636803069e-06,7.315823917451601
+R_easy_006,easy,Curve-fit baseline,20,4.790163636803069e-06,8.266561430999438
+R_easy_006,easy,Curve-fit baseline,30,4.790163636786415e-06,11.190200396265956
+R_easy_006,easy,Oracle simulator,1,0.0,0.0
+R_easy_006,easy,Oracle simulator,5,0.0,0.0
+R_easy_006,easy,Oracle simulator,10,0.0,0.0
+R_easy_006,easy,Oracle simulator,20,0.0,0.0
+R_easy_006,easy,Oracle simulator,30,0.0,0.0
+R_easy_007,easy,Random baseline,1,0.06781303862042008,187.6514980613345
+R_easy_007,easy,Random baseline,5,0.110768820860729,83.37884177782806
+R_easy_007,easy,Random baseline,10,0.13622228572979656,83.06252464612155
+R_easy_007,easy,Random baseline,20,0.12853006544413395,93.62705228323944
+R_easy_007,easy,Random baseline,30,0.13312896985335984,89.15898243510775
+R_easy_007,easy,Last-value baseline,1,2.955359648310063e-06,0.8450277591789614
+R_easy_007,easy,Last-value baseline,5,2.955359648310063e-06,3.827742563478492
+R_easy_007,easy,Last-value baseline,10,2.955359648310063e-06,5.166890313847221
+R_easy_007,easy,Last-value baseline,20,2.955359648310063e-06,7.258338548452525
+R_easy_007,easy,Last-value baseline,30,2.9553596483137637e-06,14.016510600087928
+R_easy_007,easy,Curve-fit baseline,1,2.955359648310063e-06,1.0110226007131757
+R_easy_007,easy,Curve-fit baseline,5,2.955359648310063e-06,1.8015469764178818
+R_easy_007,easy,Curve-fit baseline,10,2.955359648310063e-06,2.837670482601881
+R_easy_007,easy,Curve-fit baseline,20,2.955359648310063e-06,4.737110243567088
+R_easy_007,easy,Curve-fit baseline,30,2.9553596483137637e-06,7.560425610940925
+R_easy_007,easy,Oracle simulator,1,0.0,0.0
+R_easy_007,easy,Oracle simulator,5,0.0,0.0
+R_easy_007,easy,Oracle simulator,10,0.0,0.0
+R_easy_007,easy,Oracle simulator,20,0.0,0.0
+R_easy_007,easy,Oracle simulator,30,0.0,0.0
+R_easy_008,easy,Random baseline,1,0.021149273906063776,123.75551088005355
+R_easy_008,easy,Random baseline,5,0.07857334587459477,91.57673348749532
+R_easy_008,easy,Random baseline,10,0.10528457688646095,91.40493358796246
+R_easy_008,easy,Random baseline,20,0.12739751393712673,85.75550009777702
+R_easy_008,easy,Random baseline,30,0.11887422073725137,81.0470935811291
+R_easy_008,easy,Last-value baseline,1,4.7378305595424663e-07,5.659596645413416
+R_easy_008,easy,Last-value baseline,5,4.7378305595424663e-07,10.676444194914335
+R_easy_008,easy,Last-value baseline,10,4.7378305595424663e-07,13.048101465931023
+R_easy_008,easy,Last-value baseline,20,4.7378305595424663e-07,10.256603020960567
+R_easy_008,easy,Last-value baseline,30,4.7378305595424663e-07,14.193427893319063
+R_easy_008,easy,Curve-fit baseline,1,4.7378305595424663e-07,1.0853520223317332
+R_easy_008,easy,Curve-fit baseline,5,4.7378305595424663e-07,2.231407769000282
+R_easy_008,easy,Curve-fit baseline,10,4.7378305595424663e-07,4.364604994935192
+R_easy_008,easy,Curve-fit baseline,20,4.7378305595424663e-07,8.029586984702117
+R_easy_008,easy,Curve-fit baseline,30,4.7378305595424663e-07,10.589878199982545
+R_easy_008,easy,Oracle simulator,1,0.0,0.0
+R_easy_008,easy,Oracle simulator,5,0.0,0.0
+R_easy_008,easy,Oracle simulator,10,0.0,0.0
+R_easy_008,easy,Oracle simulator,20,0.0,0.0
+R_easy_008,easy,Oracle simulator,30,0.0,0.0
+R_easy_009,easy,Random baseline,1,0.06198601640274076,137.34946321999712
+R_easy_009,easy,Random baseline,5,0.1602137941957275,121.298620611264
+R_easy_009,easy,Random baseline,10,0.1384801543951162,93.7781042930457
+R_easy_009,easy,Random baseline,20,0.12752388341411622,87.07322412448934
+R_easy_009,easy,Random baseline,30,0.144988438309586,95.13534694538606
+R_easy_009,easy,Last-value baseline,1,1.6826751154108699e-06,8.809277006256195
+R_easy_009,easy,Last-value baseline,5,1.6826751154108699e-06,14.678985071912459
+R_easy_009,easy,Last-value baseline,10,1.6826751154108699e-06,17.714563913596752
+R_easy_009,easy,Last-value baseline,20,1.6826751154108699e-06,20.793585621886375
+R_easy_009,easy,Last-value baseline,30,1.6826751154108699e-06,18.11414456911375
+R_easy_009,easy,Curve-fit baseline,1,1.6826751154108699e-06,1.6130361675341192
+R_easy_009,easy,Curve-fit baseline,5,1.6826751154108699e-06,1.8724289008384063
+R_easy_009,easy,Curve-fit baseline,10,1.6826751154108699e-06,2.3841781955421224
+R_easy_009,easy,Curve-fit baseline,20,1.6826751154108699e-06,3.7505436078506946
+R_easy_009,easy,Curve-fit baseline,30,1.6826751154108699e-06,4.300941454973594
+R_easy_009,easy,Oracle simulator,1,0.0,0.0
+R_easy_009,easy,Oracle simulator,5,0.0,0.0
+R_easy_009,easy,Oracle simulator,10,0.0,0.0
+R_easy_009,easy,Oracle simulator,20,0.0,0.0
+R_easy_009,easy,Oracle simulator,30,0.0,0.0
+R_easy_010,easy,Random baseline,1,0.1509621080141738,60.3536144075356
+R_easy_010,easy,Random baseline,5,0.08840579589751367,60.905942460408006
+R_easy_010,easy,Random baseline,10,0.08569039251878537,75.50933056723876
+R_easy_010,easy,Random baseline,20,0.14755164607577925,78.5238394936945
+R_easy_010,easy,Random baseline,30,0.13273003548502402,76.41340507459518
+R_easy_010,easy,Last-value baseline,1,5.2170331860112995e-08,6.174227088329303
+R_easy_010,easy,Last-value baseline,5,5.2170331860112995e-08,4.784316349414047
+R_easy_010,easy,Last-value baseline,10,5.217033184901076e-08,6.546035820829485
+R_easy_010,easy,Last-value baseline,20,5.217033184068409e-08,15.262175272996824
+R_easy_010,easy,Last-value baseline,30,5.2170331837908536e-08,14.64733663605021
+R_easy_010,easy,Curve-fit baseline,1,5.2170331860112995e-08,1.0544603096124092
+R_easy_010,easy,Curve-fit baseline,5,5.2170331860112995e-08,3.4024194716912177
+R_easy_010,easy,Curve-fit baseline,10,5.217033184901076e-08,6.06314854675103
+R_easy_010,easy,Curve-fit baseline,20,5.217033184068409e-08,9.128985702943357
+R_easy_010,easy,Curve-fit baseline,30,5.2170331837908536e-08,11.815750013573501
+R_easy_010,easy,Oracle simulator,1,0.0,0.0
+R_easy_010,easy,Oracle simulator,5,0.0,0.0
+R_easy_010,easy,Oracle simulator,10,0.0,0.0
+R_easy_010,easy,Oracle simulator,20,0.0,0.0
+R_easy_010,easy,Oracle simulator,30,0.0,0.0
+R_easy_011,easy,Random baseline,1,0.2897962477324659,25.20094895298797
+R_easy_011,easy,Random baseline,5,0.2495746705731896,68.29114142308124
+R_easy_011,easy,Random baseline,10,0.21393658587051054,71.9173949340146
+R_easy_011,easy,Random baseline,20,0.16923027895413276,90.7675371767975
+R_easy_011,easy,Random baseline,30,0.14673686794177646,80.76463533910893
+R_easy_011,easy,Last-value baseline,1,0.0,9.913280829731377
+R_easy_011,easy,Last-value baseline,5,0.0,6.154158492372287
+R_easy_011,easy,Last-value baseline,10,0.0,6.561306614178639
+R_easy_011,easy,Last-value baseline,20,0.0,13.852025844844627
+R_easy_011,easy,Last-value baseline,30,0.0,27.630022045123045
+R_easy_011,easy,Curve-fit baseline,1,0.0,2.3317163512037666
+R_easy_011,easy,Curve-fit baseline,5,0.0,2.709124213962204
+R_easy_011,easy,Curve-fit baseline,10,0.0,3.5187892862904393
+R_easy_011,easy,Curve-fit baseline,20,0.0,6.640830712149979
+R_easy_011,easy,Curve-fit baseline,30,0.0,13.966681922320555
+R_easy_011,easy,Oracle simulator,1,0.0,0.0
+R_easy_011,easy,Oracle simulator,5,0.0,0.0
+R_easy_011,easy,Oracle simulator,10,0.0,0.0
+R_easy_011,easy,Oracle simulator,20,0.0,0.0
+R_easy_011,easy,Oracle simulator,30,0.0,0.0
+R_easy_012,easy,Random baseline,1,0.2454812842116936,31.77816904255812
+R_easy_012,easy,Random baseline,5,0.1356137650134175,60.0586775225064
+R_easy_012,easy,Random baseline,10,0.11008238400377564,68.46917766422844
+R_easy_012,easy,Random baseline,20,0.11362670323907623,73.73513065335177
+R_easy_012,easy,Random baseline,30,0.10552892291792756,72.86193993252522
+R_easy_012,easy,Last-value baseline,1,1.2916445822908074e-06,5.8176973554598135
+R_easy_012,easy,Last-value baseline,5,1.2916445822908074e-06,16.585016870325013
+R_easy_012,easy,Last-value baseline,10,1.2916445822908074e-06,17.881818993498058
+R_easy_012,easy,Last-value baseline,20,1.2916445822908074e-06,19.33125827465441
+R_easy_012,easy,Last-value baseline,30,1.2916445822908074e-06,24.457504402242307
+R_easy_012,easy,Curve-fit baseline,1,1.2916445822908074e-06,0.3803242442611463
+R_easy_012,easy,Curve-fit baseline,5,1.2916445822908074e-06,1.8561409500142532
+R_easy_012,easy,Curve-fit baseline,10,1.2916445822908074e-06,4.561112013421703
+R_easy_012,easy,Curve-fit baseline,20,1.2916445822908074e-06,9.78986521388732
+R_easy_012,easy,Curve-fit baseline,30,1.2916445822908074e-06,14.271034788248846
+R_easy_012,easy,Oracle simulator,1,0.0,0.0
+R_easy_012,easy,Oracle simulator,5,0.0,0.0
+R_easy_012,easy,Oracle simulator,10,0.0,0.0
+R_easy_012,easy,Oracle simulator,20,0.0,0.0
+R_easy_012,easy,Oracle simulator,30,0.0,0.0
+R_easy_013,easy,Random baseline,1,0.12542378356722667,12.671863511913799
+R_easy_013,easy,Random baseline,5,0.0876277439440455,57.98373235448762
+R_easy_013,easy,Random baseline,10,0.08763878158276889,66.66683018922028
+R_easy_013,easy,Random baseline,20,0.09979490795514148,64.51216578892152
+R_easy_013,easy,Random baseline,30,0.11865526555040812,61.07095845536808
+R_easy_013,easy,Last-value baseline,1,1.6105980719105517e-06,5.312464053138129
+R_easy_013,easy,Last-value baseline,5,1.6105980719105517e-06,7.438830012233166
+R_easy_013,easy,Last-value baseline,10,1.6105980719105517e-06,10.524550842111832
+R_easy_013,easy,Last-value baseline,20,1.6105980719105517e-06,8.994458823337345
+R_easy_013,easy,Last-value baseline,30,1.6105980719105517e-06,12.970595053551138
+R_easy_013,easy,Curve-fit baseline,1,1.6105980719105517e-06,2.653035380424569
+R_easy_013,easy,Curve-fit baseline,5,1.6105980719105517e-06,4.098674757700005
+R_easy_013,easy,Curve-fit baseline,10,1.6105980719105517e-06,5.4432874926272445
+R_easy_013,easy,Curve-fit baseline,20,1.6105980719105517e-06,6.755125624566711
+R_easy_013,easy,Curve-fit baseline,30,1.6105980719105517e-06,9.518232096476579
+R_easy_013,easy,Oracle simulator,1,0.0,0.0
+R_easy_013,easy,Oracle simulator,5,0.0,0.0
+R_easy_013,easy,Oracle simulator,10,0.0,0.0
+R_easy_013,easy,Oracle simulator,20,0.0,0.0
+R_easy_013,easy,Oracle simulator,30,0.0,0.0
+R_easy_014,easy,Random baseline,1,0.33709759261632555,9.752612978758947
+R_easy_014,easy,Random baseline,5,0.252573710810826,100.65333096482433
+R_easy_014,easy,Random baseline,10,0.19196152015536128,90.93660523336042
+R_easy_014,easy,Random baseline,20,0.1416723505210088,71.84288999535721
+R_easy_014,easy,Random baseline,30,0.12187875192277399,68.19763337386368
+R_easy_014,easy,Last-value baseline,1,1.7511959712890324e-07,6.155695999465962
+R_easy_014,easy,Last-value baseline,5,3.5023919425780646e-08,6.263909845954879
+R_easy_014,easy,Last-value baseline,10,1.7511959712890323e-08,10.389181015768356
+R_easy_014,easy,Last-value baseline,20,8.755979856445162e-09,28.453342158157124
+R_easy_014,easy,Last-value baseline,30,5.837319904296775e-09,31.04632256946246
+R_easy_014,easy,Curve-fit baseline,1,1.7511959712890324e-07,2.5774647783732547
+R_easy_014,easy,Curve-fit baseline,5,3.5023919425780646e-08,3.4193884748023917
+R_easy_014,easy,Curve-fit baseline,10,1.7511959712890323e-08,3.414569852868611
+R_easy_014,easy,Curve-fit baseline,20,8.755979856445162e-09,7.686494718253739
+R_easy_014,easy,Curve-fit baseline,30,5.837319904296775e-09,11.093232744417744
+R_easy_014,easy,Oracle simulator,1,0.0,0.0
+R_easy_014,easy,Oracle simulator,5,0.0,0.0
+R_easy_014,easy,Oracle simulator,10,0.0,0.0
+R_easy_014,easy,Oracle simulator,20,0.0,0.0
+R_easy_014,easy,Oracle simulator,30,0.0,0.0
+R_easy_015,easy,Random baseline,1,0.2962648358941248,98.59026879690752
+R_easy_015,easy,Random baseline,5,0.2671972416561862,78.72178312261529
+R_easy_015,easy,Random baseline,10,0.17512028821791586,63.82170785218365
+R_easy_015,easy,Random baseline,20,0.18898684646005606,74.45947146435853
+R_easy_015,easy,Random baseline,30,0.1649743302024036,82.55782359196688
+R_easy_015,easy,Last-value baseline,1,1.7027880536979456e-06,6.448076509547732
+R_easy_015,easy,Last-value baseline,5,1.7027880536979456e-06,10.435067335238188
+R_easy_015,easy,Last-value baseline,10,1.7027880536979456e-06,8.990728009368357
+R_easy_015,easy,Last-value baseline,20,1.1068122349036646e-06,11.586537731266
+R_easy_015,easy,Last-value baseline,30,7.378748232691098e-07,9.803918617849623
+R_easy_015,easy,Curve-fit baseline,1,1.7027880536979456e-06,1.642218249871874
+R_easy_015,easy,Curve-fit baseline,5,1.7027880536979456e-06,2.89756307546464
+R_easy_015,easy,Curve-fit baseline,10,1.7027880536979456e-06,3.780796754866999
+R_easy_015,easy,Curve-fit baseline,20,1.1068122349036646e-06,5.677909038455562
+R_easy_015,easy,Curve-fit baseline,30,7.378748232691098e-07,7.004736865301585
+R_easy_015,easy,Oracle simulator,1,0.0,0.0
+R_easy_015,easy,Oracle simulator,5,0.0,0.0
+R_easy_015,easy,Oracle simulator,10,0.0,0.0
+R_easy_015,easy,Oracle simulator,20,0.0,0.0
+R_easy_015,easy,Oracle simulator,30,0.0,0.0
+R_easy_016,easy,Random baseline,1,0.10454120653096288,22.133254741980465
+R_easy_016,easy,Random baseline,5,0.07276041896651912,79.69530755454983
+R_easy_016,easy,Random baseline,10,0.1350316067213459,93.55975780123202
+R_easy_016,easy,Random baseline,20,0.11543590439017096,85.6756969418965
+R_easy_016,easy,Random baseline,30,0.1177961948884175,84.96070379856215
+R_easy_016,easy,Last-value baseline,1,0.0,9.66058249049216
+R_easy_016,easy,Last-value baseline,5,0.0,15.858864525463607
+R_easy_016,easy,Last-value baseline,10,0.0,14.200321059096257
+R_easy_016,easy,Last-value baseline,20,0.0,17.080623554832602
+R_easy_016,easy,Last-value baseline,30,0.0,20.52012892210934
+R_easy_016,easy,Curve-fit baseline,1,0.0,3.747940269510451
+R_easy_016,easy,Curve-fit baseline,5,0.0,5.160790718919486
+R_easy_016,easy,Curve-fit baseline,10,0.0,6.117649030428692
+R_easy_016,easy,Curve-fit baseline,20,0.0,8.658431690448023
+R_easy_016,easy,Curve-fit baseline,30,0.0,11.125549844227415
+R_easy_016,easy,Oracle simulator,1,0.0,0.0
+R_easy_016,easy,Oracle simulator,5,0.0,0.0
+R_easy_016,easy,Oracle simulator,10,0.0,0.0
+R_easy_016,easy,Oracle simulator,20,0.0,0.0
+R_easy_016,easy,Oracle simulator,30,0.0,0.0
+R_easy_017,easy,Random baseline,1,0.060383844412963156,111.86423634638155
+R_easy_017,easy,Random baseline,5,0.13040378620451948,111.6754756733967
+R_easy_017,easy,Random baseline,10,0.11779533302212038,105.16577198249858
+R_easy_017,easy,Random baseline,20,0.1250199005939791,91.71601366512871
+R_easy_017,easy,Random baseline,30,0.11050721785364086,81.86829511636175
+R_easy_017,easy,Last-value baseline,1,4.400895008083161e-06,10.154288774515692
+R_easy_017,easy,Last-value baseline,5,4.400895008083161e-06,5.545997129277675
+R_easy_017,easy,Last-value baseline,10,4.400895008083161e-06,10.44718462443743
+R_easy_017,easy,Last-value baseline,20,4.400895008083161e-06,25.01048095931857
+R_easy_017,easy,Last-value baseline,30,4.400895008083161e-06,35.12858494977991
+R_easy_017,easy,Curve-fit baseline,1,4.400895008083161e-06,2.2608046132121586
+R_easy_017,easy,Curve-fit baseline,5,4.400895008083161e-06,3.0701854097584684
+R_easy_017,easy,Curve-fit baseline,10,4.400895008083161e-06,5.261957821161575
+R_easy_017,easy,Curve-fit baseline,20,4.400895008083161e-06,12.51059639698649
+R_easy_017,easy,Curve-fit baseline,30,4.400895008083161e-06,19.818097150009454
+R_easy_017,easy,Oracle simulator,1,0.0,0.0
+R_easy_017,easy,Oracle simulator,5,0.0,0.0
+R_easy_017,easy,Oracle simulator,10,0.0,0.0
+R_easy_017,easy,Oracle simulator,20,0.0,0.0
+R_easy_017,easy,Oracle simulator,30,0.0,0.0
+R_medium_018,medium,Random baseline,1,0.10244942444854221,18.108314637531635
+R_medium_018,medium,Random baseline,5,0.15003857070484755,75.23747811933528
+R_medium_018,medium,Random baseline,10,0.13706837802960692,72.19486143855991
+R_medium_018,medium,Random baseline,20,0.14587425621199906,78.87528545487304
+R_medium_018,medium,Random baseline,30,0.12755854954927995,77.79726800914221
+R_medium_018,medium,Last-value baseline,1,4.822899214718124e-06,8.130204614397513
+R_medium_018,medium,Last-value baseline,5,4.822899214718124e-06,8.293183250015094
+R_medium_018,medium,Last-value baseline,10,4.822899214718124e-06,12.391363958300063
+R_medium_018,medium,Last-value baseline,20,4.82289921472645e-06,30.92642240332084
+R_medium_018,medium,Last-value baseline,30,4.822899214742179e-06,57.43621546412543
+R_medium_018,medium,Curve-fit baseline,1,4.822899214718124e-06,10.253652478621632
+R_medium_018,medium,Curve-fit baseline,5,4.822899214718124e-06,13.770813123664022
+R_medium_018,medium,Curve-fit baseline,10,4.822899214718124e-06,16.01350072612785
+R_medium_018,medium,Curve-fit baseline,20,4.82289921472645e-06,30.341810998165954
+R_medium_018,medium,Curve-fit baseline,30,4.822899214742179e-06,49.63804478528365
+R_medium_018,medium,Oracle simulator,1,0.0,0.0
+R_medium_018,medium,Oracle simulator,5,0.0,0.0
+R_medium_018,medium,Oracle simulator,10,0.0,0.0
+R_medium_018,medium,Oracle simulator,20,0.0,0.0
+R_medium_018,medium,Oracle simulator,30,0.0,0.0
+R_medium_019,medium,Random baseline,1,0.2997361111120999,83.37792460009042
+R_medium_019,medium,Random baseline,5,0.14552263048162425,22.624761140068518
+R_medium_019,medium,Random baseline,10,0.13946965241795622,45.09414150106953
+R_medium_019,medium,Random baseline,20,0.12277200721205686,56.293557297055294
+R_medium_019,medium,Random baseline,30,0.12386261531830198,60.3124111873672
+R_medium_019,medium,Last-value baseline,1,4.556346157286173e-06,9.703005924829242
+R_medium_019,medium,Last-value baseline,5,4.556346157286173e-06,24.16375370113481
+R_medium_019,medium,Last-value baseline,10,4.556346157286173e-06,24.620033107133747
+R_medium_019,medium,Last-value baseline,20,4.556346157286173e-06,37.2203192349089
+R_medium_019,medium,Last-value baseline,30,4.556346157276921e-06,42.969633943103055
+R_medium_019,medium,Curve-fit baseline,1,4.556346157286173e-06,6.109535649936902
+R_medium_019,medium,Curve-fit baseline,5,4.556346157286173e-06,8.819767605496457
+R_medium_019,medium,Curve-fit baseline,10,4.556346157286173e-06,10.478440738130281
+R_medium_019,medium,Curve-fit baseline,20,4.556346157286173e-06,15.31935016323109
+R_medium_019,medium,Curve-fit baseline,30,4.556346157276921e-06,20.71365009235627
+R_medium_019,medium,Oracle simulator,1,0.0,0.0
+R_medium_019,medium,Oracle simulator,5,0.0,0.0
+R_medium_019,medium,Oracle simulator,10,0.0,0.0
+R_medium_019,medium,Oracle simulator,20,0.0,0.0
+R_medium_019,medium,Oracle simulator,30,0.0,0.0
+R_medium_020,medium,Random baseline,1,0.1534524470992881,43.92110070541267
+R_medium_020,medium,Random baseline,5,0.10695147087079437,58.860449291060014
+R_medium_020,medium,Random baseline,10,0.08362120372132524,72.43094859908567
+R_medium_020,medium,Random baseline,20,0.09182322820590322,80.86623016964876
+R_medium_020,medium,Random baseline,30,0.10474907407052979,76.21255999639052
+R_medium_020,medium,Last-value baseline,1,3.419542261490216e-06,0.5528134905111131
+R_medium_020,medium,Last-value baseline,5,3.419542261479114e-06,11.24768326830046
+R_medium_020,medium,Last-value baseline,10,3.419542261470787e-06,8.655643233031705
+R_medium_020,medium,Last-value baseline,20,3.4195422614666236e-06,21.502249928246062
+R_medium_020,medium,Last-value baseline,30,3.419542261465236e-06,51.02441488501469
+R_medium_020,medium,Curve-fit baseline,1,3.419542261490216e-06,3.731024076046083
+R_medium_020,medium,Curve-fit baseline,5,3.419542261479114e-06,10.096753921524776
+R_medium_020,medium,Curve-fit baseline,10,3.419542261470787e-06,19.02466559600186
+R_medium_020,medium,Curve-fit baseline,20,3.4195422614666236e-06,28.266632569565637
+R_medium_020,medium,Curve-fit baseline,30,3.419542261465236e-06,43.51445897366984
+R_medium_020,medium,Oracle simulator,1,0.0,0.0
+R_medium_020,medium,Oracle simulator,5,0.0,0.0
+R_medium_020,medium,Oracle simulator,10,0.0,0.0
+R_medium_020,medium,Oracle simulator,20,0.0,0.0
+R_medium_020,medium,Oracle simulator,30,0.0,0.0
+R_medium_021,medium,Random baseline,1,0.3159679451884924,96.56739188690905
+R_medium_021,medium,Random baseline,5,0.1751225670068978,50.05252803149463
+R_medium_021,medium,Random baseline,10,0.15286733791252788,70.04405689960403
+R_medium_021,medium,Random baseline,20,0.13177146011526317,69.68073194665926
+R_medium_021,medium,Random baseline,30,0.10952679332562923,67.27705604292701
+R_medium_021,medium,Last-value baseline,1,1.936081653552968e-06,12.455546839564008
+R_medium_021,medium,Last-value baseline,5,1.936081653552968e-06,11.34796042114802
+R_medium_021,medium,Last-value baseline,10,1.936081653552968e-06,8.07002712669407
+R_medium_021,medium,Last-value baseline,20,1.936081653552968e-06,13.839186238847665
+R_medium_021,medium,Last-value baseline,30,1.936081653552968e-06,30.77412693643061
+R_medium_021,medium,Curve-fit baseline,1,1.936081653552968e-06,5.91312883805773
+R_medium_021,medium,Curve-fit baseline,5,1.936081653552968e-06,7.434631361513473
+R_medium_021,medium,Curve-fit baseline,10,1.936081653552968e-06,8.819587792971847
+R_medium_021,medium,Curve-fit baseline,20,1.936081653552968e-06,15.147279967472173
+R_medium_021,medium,Curve-fit baseline,30,1.936081653552968e-06,30.906231568709526
+R_medium_021,medium,Oracle simulator,1,0.0,0.0
+R_medium_021,medium,Oracle simulator,5,0.0,0.0
+R_medium_021,medium,Oracle simulator,10,0.0,0.0
+R_medium_021,medium,Oracle simulator,20,0.0,0.0
+R_medium_021,medium,Oracle simulator,30,0.0,0.0
+R_medium_022,medium,Random baseline,1,0.16582895184455562,108.00633532013855
+R_medium_022,medium,Random baseline,5,0.13712409280348647,65.0300981090975
+R_medium_022,medium,Random baseline,10,0.12941925442155544,60.45591274425219
+R_medium_022,medium,Random baseline,20,0.13183090884825188,64.38866788418447
+R_medium_022,medium,Random baseline,30,0.13342930820598894,80.0980114726482
+R_medium_022,medium,Last-value baseline,1,2.60285762687662e-06,8.753708514514472
+R_medium_022,medium,Last-value baseline,5,2.60285762687662e-06,9.984022805478327
+R_medium_022,medium,Last-value baseline,10,2.60285762687662e-06,9.78580284034653
+R_medium_022,medium,Last-value baseline,20,2.60285762687662e-06,15.021905480110686
+R_medium_022,medium,Last-value baseline,30,2.60285762687662e-06,37.43671189331477
+R_medium_022,medium,Curve-fit baseline,1,2.60285762687662e-06,23.877451839042408
+R_medium_022,medium,Curve-fit baseline,5,2.60285762687662e-06,27.508988956621995
+R_medium_022,medium,Curve-fit baseline,10,2.60285762687662e-06,33.24296480974905
+R_medium_022,medium,Curve-fit baseline,20,2.60285762687662e-06,44.84464416044036
+R_medium_022,medium,Curve-fit baseline,30,2.60285762687662e-06,60.123432369052665
+R_medium_022,medium,Oracle simulator,1,0.0,0.0
+R_medium_022,medium,Oracle simulator,5,0.0,0.0
+R_medium_022,medium,Oracle simulator,10,0.0,0.0
+R_medium_022,medium,Oracle simulator,20,0.0,0.0
+R_medium_022,medium,Oracle simulator,30,0.0,0.0
+R_medium_023,medium,Random baseline,1,0.09153319506643631,57.71141621872661
+R_medium_023,medium,Random baseline,5,0.15194349364624166,70.97137180933115
+R_medium_023,medium,Random baseline,10,0.10785112333870187,68.69720461904191
+R_medium_023,medium,Random baseline,20,0.13142801129501774,55.98156799867852
+R_medium_023,medium,Random baseline,30,0.13739328009871507,53.76504126923024
+R_medium_023,medium,Last-value baseline,1,2.8558243674592365e-06,11.037238925202388
+R_medium_023,medium,Last-value baseline,5,2.8558243674592365e-06,20.605529568257907
+R_medium_023,medium,Last-value baseline,10,2.8558243674481345e-06,41.75990693309747
+R_medium_023,medium,Last-value baseline,20,2.8558243674398077e-06,38.437899216749614
+R_medium_023,medium,Last-value baseline,30,2.855824367437032e-06,42.76000315293099
+R_medium_023,medium,Curve-fit baseline,1,2.8558243674592365e-06,7.317069327648284
+R_medium_023,medium,Curve-fit baseline,5,2.8558243674592365e-06,13.455181348224574
+R_medium_023,medium,Curve-fit baseline,10,2.8558243674481345e-06,33.177028177157034
+R_medium_023,medium,Curve-fit baseline,20,2.8558243674398077e-06,39.103294464466444
+R_medium_023,medium,Curve-fit baseline,30,2.855824367437032e-06,43.98527635345979
+R_medium_023,medium,Oracle simulator,1,0.0,0.0
+R_medium_023,medium,Oracle simulator,5,0.0,0.0
+R_medium_023,medium,Oracle simulator,10,0.0,0.0
+R_medium_023,medium,Oracle simulator,20,0.0,0.0
+R_medium_023,medium,Oracle simulator,30,0.0,0.0
+R_medium_024,medium,Random baseline,1,0.1972012397525159,20.147186946051207
+R_medium_024,medium,Random baseline,5,0.12344713460821519,64.96436207604792
+R_medium_024,medium,Random baseline,10,0.1220342181233389,65.54657129355039
+R_medium_024,medium,Random baseline,20,0.11754785701434382,64.2882359920786
+R_medium_024,medium,Random baseline,30,0.11715116987516362,63.255998052920226
+R_medium_024,medium,Last-value baseline,1,2.7755575615628914e-17,3.768214145031081
+R_medium_024,medium,Last-value baseline,5,1.1102230246251566e-17,21.38718404590855
+R_medium_024,medium,Last-value baseline,10,5.551115123125783e-18,29.652659317980476
+R_medium_024,medium,Last-value baseline,20,2.7755575615628915e-18,38.74256340206212
+R_medium_024,medium,Last-value baseline,30,1.8503717077085942e-18,46.0159062903629
+R_medium_024,medium,Curve-fit baseline,1,2.7755575615628914e-17,4.8938576899434025
+R_medium_024,medium,Curve-fit baseline,5,1.1102230246251566e-17,7.8570243380295866
+R_medium_024,medium,Curve-fit baseline,10,5.551115123125783e-18,5.602876287073686
+R_medium_024,medium,Curve-fit baseline,20,2.7755575615628915e-18,11.381822008569433
+R_medium_024,medium,Curve-fit baseline,30,1.8503717077085942e-18,16.37256121305895
+R_medium_024,medium,Oracle simulator,1,0.0,0.0
+R_medium_024,medium,Oracle simulator,5,0.0,0.0
+R_medium_024,medium,Oracle simulator,10,0.0,0.0
+R_medium_024,medium,Oracle simulator,20,0.0,0.0
+R_medium_024,medium,Oracle simulator,30,0.0,0.0
+R_medium_025,medium,Random baseline,1,0.26530353119795236,165.43106749349033
+R_medium_025,medium,Random baseline,5,0.16566267746283903,121.91759588367863
+R_medium_025,medium,Random baseline,10,0.162432648022455,112.41819488869892
+R_medium_025,medium,Random baseline,20,0.15755120331000824,88.92759829976416
+R_medium_025,medium,Random baseline,30,0.13870104139266146,75.8474086568915
+R_medium_025,medium,Last-value baseline,1,0.0,16.12335097129963
+R_medium_025,medium,Last-value baseline,5,0.0,14.241662156551078
+R_medium_025,medium,Last-value baseline,10,0.0,24.290667987659795
+R_medium_025,medium,Last-value baseline,20,0.0,38.64734483580808
+R_medium_025,medium,Last-value baseline,30,0.0,65.93396913678788
+R_medium_025,medium,Curve-fit baseline,1,0.0,9.616501833445128
+R_medium_025,medium,Curve-fit baseline,5,0.0,10.128509025035465
+R_medium_025,medium,Curve-fit baseline,10,0.0,12.042566942018755
+R_medium_025,medium,Curve-fit baseline,20,0.0,17.31726219865086
+R_medium_025,medium,Curve-fit baseline,30,0.0,17.509446924658437
+R_medium_025,medium,Oracle simulator,1,0.0,0.0
+R_medium_025,medium,Oracle simulator,5,0.0,0.0
+R_medium_025,medium,Oracle simulator,10,0.0,0.0
+R_medium_025,medium,Oracle simulator,20,0.0,0.0
+R_medium_025,medium,Oracle simulator,30,0.0,0.0
+R_medium_026,medium,Random baseline,1,0.08700374773488982,56.6965555877522
+R_medium_026,medium,Random baseline,5,0.10203815709837545,65.56986562467955
+R_medium_026,medium,Random baseline,10,0.09924146076714575,61.24447418363949
+R_medium_026,medium,Random baseline,20,0.12998110846882172,70.14747024134716
+R_medium_026,medium,Random baseline,30,0.11054571892831747,69.2421308460812
+R_medium_026,medium,Last-value baseline,1,2.9761429018448915e-07,0.5872312096699659
+R_medium_026,medium,Last-value baseline,5,2.976142901900403e-07,3.97321111761309
+R_medium_026,medium,Last-value baseline,10,2.976142902011425e-07,5.832634165300161
+R_medium_026,medium,Last-value baseline,20,2.976142902066936e-07,10.896496017664262
+R_medium_026,medium,Last-value baseline,30,2.97614290208544e-07,22.150628186036485
+R_medium_026,medium,Curve-fit baseline,1,2.9761429018448915e-07,3.259125453015173
+R_medium_026,medium,Curve-fit baseline,5,2.976142901900403e-07,4.1792752418232855
+R_medium_026,medium,Curve-fit baseline,10,2.976142902011425e-07,6.814272391646604
+R_medium_026,medium,Curve-fit baseline,20,2.976142902066936e-07,11.36171593729009
+R_medium_026,medium,Curve-fit baseline,30,2.97614290208544e-07,18.878375093907447
+R_medium_026,medium,Oracle simulator,1,0.0,0.0
+R_medium_026,medium,Oracle simulator,5,0.0,0.0
+R_medium_026,medium,Oracle simulator,10,0.0,0.0
+R_medium_026,medium,Oracle simulator,20,0.0,0.0
+R_medium_026,medium,Oracle simulator,30,0.0,0.0
+R_medium_027,medium,Random baseline,1,0.2401042823078769,57.98061449867028
+R_medium_027,medium,Random baseline,5,0.1493496791283996,43.25314439951023
+R_medium_027,medium,Random baseline,10,0.1314528655267732,57.51405302983402
+R_medium_027,medium,Random baseline,20,0.11543967075372949,68.48519279142076
+R_medium_027,medium,Random baseline,30,0.10827321626641555,62.9591749606331
+R_medium_027,medium,Last-value baseline,1,2.405972198887829e-06,14.277401899096247
+R_medium_027,medium,Last-value baseline,5,2.4059721989100336e-06,12.003830901537498
+R_medium_027,medium,Last-value baseline,10,2.405972198912809e-06,25.952075138723558
+R_medium_027,medium,Last-value baseline,20,2.405972198914197e-06,34.22324385379633
+R_medium_027,medium,Last-value baseline,30,2.4059721989146593e-06,40.30584313039729
+R_medium_027,medium,Curve-fit baseline,1,2.405972198887829e-06,4.031767322882729
+R_medium_027,medium,Curve-fit baseline,5,2.4059721989100336e-06,11.309868552129558
+R_medium_027,medium,Curve-fit baseline,10,2.405972198912809e-06,17.750826113386132
+R_medium_027,medium,Curve-fit baseline,20,2.405972198914197e-06,31.967286293597386
+R_medium_027,medium,Curve-fit baseline,30,2.4059721989146593e-06,42.91369546903748
+R_medium_027,medium,Oracle simulator,1,0.0,0.0
+R_medium_027,medium,Oracle simulator,5,0.0,0.0
+R_medium_027,medium,Oracle simulator,10,0.0,0.0
+R_medium_027,medium,Oracle simulator,20,0.0,0.0
+R_medium_027,medium,Oracle simulator,30,0.0,0.0
+R_medium_028,medium,Random baseline,1,0.07900943198802973,45.01409094499773
+R_medium_028,medium,Random baseline,5,0.10133996259807443,83.3258073473377
+R_medium_028,medium,Random baseline,10,0.10399593303597295,72.67205962848496
+R_medium_028,medium,Random baseline,20,0.09606724719439215,70.92520733524354
+R_medium_028,medium,Random baseline,30,0.09962462953920072,70.30592542639866
+R_medium_028,medium,Last-value baseline,1,2.1527458684555967e-06,4.058511776024801
+R_medium_028,medium,Last-value baseline,5,2.1527458684555967e-06,15.183883486599631
+R_medium_028,medium,Last-value baseline,10,2.1527458684555967e-06,18.610185019424538
+R_medium_028,medium,Last-value baseline,20,2.1527458684555967e-06,27.33085789535689
+R_medium_028,medium,Last-value baseline,30,1.8657130859948505e-06,48.95158527297598
+R_medium_028,medium,Curve-fit baseline,1,2.1527458684555967e-06,6.279412400635948
+R_medium_028,medium,Curve-fit baseline,5,2.1527458684555967e-06,8.5691688316625
+R_medium_028,medium,Curve-fit baseline,10,2.1527458684555967e-06,14.687440795028778
+R_medium_028,medium,Curve-fit baseline,20,2.1527458684555967e-06,23.42535573124386
+R_medium_028,medium,Curve-fit baseline,30,1.8657130859948505e-06,34.026768858563145
+R_medium_028,medium,Oracle simulator,1,0.0,0.0
+R_medium_028,medium,Oracle simulator,5,0.0,0.0
+R_medium_028,medium,Oracle simulator,10,0.0,0.0
+R_medium_028,medium,Oracle simulator,20,0.0,0.0
+R_medium_028,medium,Oracle simulator,30,0.0,0.0
+R_medium_029,medium,Random baseline,1,0.16323472134584835,37.51412292568841
+R_medium_029,medium,Random baseline,5,0.13558439325793875,88.57837173564397
+R_medium_029,medium,Random baseline,10,0.1890228748916824,71.73666731261403
+R_medium_029,medium,Random baseline,20,0.15081671842814903,70.41353094069609
+R_medium_029,medium,Random baseline,30,0.12864222422798202,60.777341477236135
+R_medium_029,medium,Last-value baseline,1,0.0,7.793619509005794
+R_medium_029,medium,Last-value baseline,5,0.0,17.274181354389253
+R_medium_029,medium,Last-value baseline,10,0.0,12.629469669538901
+R_medium_029,medium,Last-value baseline,20,0.0,29.72852367997723
+R_medium_029,medium,Last-value baseline,30,0.0,49.329057712246076
+R_medium_029,medium,Curve-fit baseline,1,0.0,8.75614429408472
+R_medium_029,medium,Curve-fit baseline,5,0.0,11.145063487681023
+R_medium_029,medium,Curve-fit baseline,10,0.0,14.211051144692437
+R_medium_029,medium,Curve-fit baseline,20,0.0,22.19471447630741
+R_medium_029,medium,Curve-fit baseline,30,0.0,34.74904454201567
+R_medium_029,medium,Oracle simulator,1,0.0,0.0
+R_medium_029,medium,Oracle simulator,5,0.0,0.0
+R_medium_029,medium,Oracle simulator,10,0.0,0.0
+R_medium_029,medium,Oracle simulator,20,0.0,0.0
+R_medium_029,medium,Oracle simulator,30,0.0,0.0
+R_medium_030,medium,Random baseline,1,0.019662970484546988,28.605367976552856
+R_medium_030,medium,Random baseline,5,0.08004962238966218,49.772433107293296
+R_medium_030,medium,Random baseline,10,0.07181059064491255,49.28293782927141
+R_medium_030,medium,Random baseline,20,0.10224374106661267,69.49372304938134
+R_medium_030,medium,Random baseline,30,0.1251280429944143,78.78188993079293
+R_medium_030,medium,Last-value baseline,1,1.8663809051577829e-06,12.816376997491915
+R_medium_030,medium,Last-value baseline,5,1.8663809051577829e-06,15.043759658055814
+R_medium_030,medium,Last-value baseline,10,1.8663809051577829e-06,29.341748178138527
+R_medium_030,medium,Last-value baseline,20,1.8663809051577829e-06,76.02622586831241
+R_medium_030,medium,Last-value baseline,30,1.8663809051577829e-06,106.59104221247682
+R_medium_030,medium,Curve-fit baseline,1,1.8663809051577829e-06,15.236307737460237
+R_medium_030,medium,Curve-fit baseline,5,1.8663809051577829e-06,14.41508029746214
+R_medium_030,medium,Curve-fit baseline,10,1.8663809051577829e-06,24.260170803282932
+R_medium_030,medium,Curve-fit baseline,20,1.8663809051577829e-06,70.41652285063779
+R_medium_030,medium,Curve-fit baseline,30,1.8663809051577829e-06,99.32743560553966
+R_medium_030,medium,Oracle simulator,1,0.0,0.0
+R_medium_030,medium,Oracle simulator,5,0.0,0.0
+R_medium_030,medium,Oracle simulator,10,0.0,0.0
+R_medium_030,medium,Oracle simulator,20,0.0,0.0
+R_medium_030,medium,Oracle simulator,30,0.0,0.0
+R_medium_031,medium,Random baseline,1,0.004081760652148772,107.52667969225998
+R_medium_031,medium,Random baseline,5,0.11354662199457584,45.79411862119302
+R_medium_031,medium,Random baseline,10,0.09821831334334527,76.47819753133214
+R_medium_031,medium,Random baseline,20,0.09811222779558193,76.53282220823057
+R_medium_031,medium,Random baseline,30,0.09867370709388755,76.08018093847873
+R_medium_031,medium,Last-value baseline,1,3.83998304404054e-06,11.969735009566662
+R_medium_031,medium,Last-value baseline,5,3.83998304404054e-06,10.940375904917602
+R_medium_031,medium,Last-value baseline,10,3.83998304404054e-06,19.86175130802927
+R_medium_031,medium,Last-value baseline,20,3.83998304404054e-06,15.626527401529193
+R_medium_031,medium,Last-value baseline,30,3.83998304404054e-06,27.625294326419972
+R_medium_031,medium,Curve-fit baseline,1,3.83998304404054e-06,5.275183271342897
+R_medium_031,medium,Curve-fit baseline,5,3.83998304404054e-06,6.815408047038838
+R_medium_031,medium,Curve-fit baseline,10,3.83998304404054e-06,11.57191976420722
+R_medium_031,medium,Curve-fit baseline,20,3.83998304404054e-06,12.91318209194485
+R_medium_031,medium,Curve-fit baseline,30,3.83998304404054e-06,21.915381883929033
+R_medium_031,medium,Oracle simulator,1,0.0,0.0
+R_medium_031,medium,Oracle simulator,5,0.0,0.0
+R_medium_031,medium,Oracle simulator,10,0.0,0.0
+R_medium_031,medium,Oracle simulator,20,0.0,0.0
+R_medium_031,medium,Oracle simulator,30,0.0,0.0
+R_medium_032,medium,Random baseline,1,0.02065042118969171,105.84001839881932
+R_medium_032,medium,Random baseline,5,0.12720115760029221,89.2715290452737
+R_medium_032,medium,Random baseline,10,0.1519303003650393,72.62524955263191
+R_medium_032,medium,Random baseline,20,0.12425785154042876,69.11094268362808
+R_medium_032,medium,Random baseline,30,0.1276201401020592,67.88548200244283
+R_medium_032,medium,Last-value baseline,1,2.9973759601564787e-06,7.722501409628649
+R_medium_032,medium,Last-value baseline,5,2.9973759601564787e-06,14.678162333951457
+R_medium_032,medium,Last-value baseline,10,2.9973759601564787e-06,14.857380997332168
+R_medium_032,medium,Last-value baseline,20,2.997375960148152e-06,23.565394294571934
+R_medium_032,medium,Last-value baseline,30,2.9973759601324238e-06,39.62355575901312
+R_medium_032,medium,Curve-fit baseline,1,2.9973759601564787e-06,11.36371415254331
+R_medium_032,medium,Curve-fit baseline,5,2.9973759601564787e-06,12.539036624529246
+R_medium_032,medium,Curve-fit baseline,10,2.9973759601564787e-06,19.678446804301025
+R_medium_032,medium,Curve-fit baseline,20,2.997375960148152e-06,31.361574272658014
+R_medium_032,medium,Curve-fit baseline,30,2.9973759601324238e-06,43.83847251409895
+R_medium_032,medium,Oracle simulator,1,0.0,0.0
+R_medium_032,medium,Oracle simulator,5,0.0,0.0
+R_medium_032,medium,Oracle simulator,10,0.0,0.0
+R_medium_032,medium,Oracle simulator,20,0.0,0.0
+R_medium_032,medium,Oracle simulator,30,0.0,0.0
+R_medium_033,medium,Random baseline,1,0.0055130720181647,45.00491546443192
+R_medium_033,medium,Random baseline,5,0.08676035652080083,37.932687534968935
+R_medium_033,medium,Random baseline,10,0.07581402130232906,55.34958391380934
+R_medium_033,medium,Random baseline,20,0.11475286295868348,55.469910780043314
+R_medium_033,medium,Random baseline,30,0.11596078850932946,51.193307895087436
+R_medium_033,medium,Last-value baseline,1,4.176429354324496e-06,5.401101839030645
+R_medium_033,medium,Last-value baseline,5,4.176429354341149e-06,21.72632773908175
+R_medium_033,medium,Last-value baseline,10,4.1764293543467e-06,41.513671044076716
+R_medium_033,medium,Last-value baseline,20,4.1764293543494755e-06,55.91322512996936
+R_medium_033,medium,Last-value baseline,30,4.1764293543504005e-06,68.90678963257943
+R_medium_033,medium,Curve-fit baseline,1,4.176429354324496e-06,6.870846691030039
+R_medium_033,medium,Curve-fit baseline,5,4.176429354341149e-06,27.086335832473747
+R_medium_033,medium,Curve-fit baseline,10,4.1764293543467e-06,59.22013739269253
+R_medium_033,medium,Curve-fit baseline,20,4.1764293543494755e-06,73.02225912267431
+R_medium_033,medium,Curve-fit baseline,30,4.1764293543504005e-06,84.62448845594946
+R_medium_033,medium,Oracle simulator,1,0.0,0.0
+R_medium_033,medium,Oracle simulator,5,0.0,0.0
+R_medium_033,medium,Oracle simulator,10,0.0,0.0
+R_medium_033,medium,Oracle simulator,20,0.0,0.0
+R_medium_033,medium,Oracle simulator,30,0.0,0.0
+R_medium_034,medium,Random baseline,1,0.08387438697798416,21.89774729644435
+R_medium_034,medium,Random baseline,5,0.11744310349392247,54.50699199810997
+R_medium_034,medium,Random baseline,10,0.1205682602643435,56.22486973903453
+R_medium_034,medium,Random baseline,20,0.1630106400161281,78.41533416099489
+R_medium_034,medium,Random baseline,30,0.18679357723008547,106.12363900337452
+R_medium_034,medium,Last-value baseline,1,1.193456948211935e-06,20.164178915164058
+R_medium_034,medium,Last-value baseline,5,1.193456948211935e-06,15.84764732990672
+R_medium_034,medium,Last-value baseline,10,1.1934569482341396e-06,16.920383266675803
+R_medium_034,medium,Last-value baseline,20,1.1337841008374206e-06,52.55507193077301
+R_medium_034,medium,Last-value baseline,30,7.55856067224947e-07,87.30320227027462
+R_medium_034,medium,Curve-fit baseline,1,1.193456948211935e-06,1.5154459168398091
+R_medium_034,medium,Curve-fit baseline,5,1.193456948211935e-06,24.64289388989787
+R_medium_034,medium,Curve-fit baseline,10,1.1934569482341396e-06,40.12275082718385
+R_medium_034,medium,Curve-fit baseline,20,1.1337841008374206e-06,63.43568064423196
+R_medium_034,medium,Curve-fit baseline,30,7.55856067224947e-07,95.73750975177788
+R_medium_034,medium,Oracle simulator,1,0.0,0.0
+R_medium_034,medium,Oracle simulator,5,0.0,0.0
+R_medium_034,medium,Oracle simulator,10,0.0,0.0
+R_medium_034,medium,Oracle simulator,20,0.0,0.0
+R_medium_034,medium,Oracle simulator,30,0.0,0.0
+R_medium_035,medium,Random baseline,1,0.058247251801012645,5.162390159338997
+R_medium_035,medium,Random baseline,5,0.09401631616408379,76.37287067536627
+R_medium_035,medium,Random baseline,10,0.09758347273715604,61.55150730435427
+R_medium_035,medium,Random baseline,20,0.10984446727887917,66.92001560571362
+R_medium_035,medium,Random baseline,30,0.10018944451958536,63.68979505050577
+R_medium_035,medium,Last-value baseline,1,8.865386524059549e-07,16.152280410620833
+R_medium_035,medium,Last-value baseline,5,8.865386524059549e-07,11.16297923263429
+R_medium_035,medium,Last-value baseline,10,8.865386524170571e-07,27.111279197545297
+R_medium_035,medium,Last-value baseline,20,8.865386524253838e-07,38.89302865718807
+R_medium_035,medium,Last-value baseline,30,8.865386524226082e-07,63.14797790313583
+R_medium_035,medium,Curve-fit baseline,1,8.865386524059549e-07,11.768410936785699
+R_medium_035,medium,Curve-fit baseline,5,8.865386524059549e-07,12.50693187880864
+R_medium_035,medium,Curve-fit baseline,10,8.865386524170571e-07,25.3883565572551
+R_medium_035,medium,Curve-fit baseline,20,8.865386524253838e-07,36.067723531050234
+R_medium_035,medium,Curve-fit baseline,30,8.865386524226082e-07,67.81915644134936
+R_medium_035,medium,Oracle simulator,1,0.0,0.0
+R_medium_035,medium,Oracle simulator,5,0.0,0.0
+R_medium_035,medium,Oracle simulator,10,0.0,0.0
+R_medium_035,medium,Oracle simulator,20,0.0,0.0
+R_medium_035,medium,Oracle simulator,30,0.0,0.0
+R_hard_036,hard,Random baseline,1,0.025213885459970664,21.472020443475685
+R_hard_036,hard,Random baseline,5,0.12062590143080279,61.01754049981994
+R_hard_036,hard,Random baseline,10,0.11379942212791161,66.76408072212003
+R_hard_036,hard,Random baseline,20,0.11009667412879043,103.27861079722209
+R_hard_036,hard,Random baseline,30,0.13047346044553904,162.20561640285396
+R_hard_036,hard,Last-value baseline,1,1.49472807847717e-06,5.030353905515483
+R_hard_036,hard,Last-value baseline,5,1.4947280785104765e-06,14.187800847840123
+R_hard_036,hard,Last-value baseline,10,1.4947280785215788e-06,37.35874872138409
+R_hard_036,hard,Last-value baseline,20,1.49472807852713e-06,76.39779716994366
+R_hard_036,hard,Last-value baseline,30,1.4947280785289804e-06,113.34657669793542
+R_hard_036,hard,Curve-fit baseline,1,1.49472807847717e-06,38.323701492883174
+R_hard_036,hard,Curve-fit baseline,5,1.4947280785104765e-06,49.66790948797159
+R_hard_036,hard,Curve-fit baseline,10,1.4947280785215788e-06,62.34370828518337
+R_hard_036,hard,Curve-fit baseline,20,1.49472807852713e-06,97.4879910624189
+R_hard_036,hard,Curve-fit baseline,30,1.4947280785289804e-06,132.24896610535112
+R_hard_036,hard,Oracle simulator,1,0.0,0.0
+R_hard_036,hard,Oracle simulator,5,0.0,0.0
+R_hard_036,hard,Oracle simulator,10,0.0,0.0
+R_hard_036,hard,Oracle simulator,20,0.0,0.0
+R_hard_036,hard,Oracle simulator,30,0.0,0.0
+R_hard_037,hard,Random baseline,1,0.050157769791941975,13.824094598590364
+R_hard_037,hard,Random baseline,5,0.14181781476761784,64.40381952251978
+R_hard_037,hard,Random baseline,10,0.14370449395870322,83.87333295113646
+R_hard_037,hard,Random baseline,20,0.12338608616107294,135.17292562838094
+R_hard_037,hard,Random baseline,30,0.13560303083377534,187.0962003753049
+R_hard_037,hard,Last-value baseline,1,2.210338424846192e-06,40.40966372406575
+R_hard_037,hard,Last-value baseline,5,1.3262030549077152e-06,55.11005268468581
+R_hard_037,hard,Last-value baseline,10,6.631015274538576e-07,52.18133113861306
+R_hard_037,hard,Last-value baseline,20,3.315507637269288e-07,95.08441318302005
+R_hard_037,hard,Last-value baseline,30,2.210338424846192e-07,140.76053929067777
+R_hard_037,hard,Curve-fit baseline,1,2.210338424846192e-06,30.984643318164444
+R_hard_037,hard,Curve-fit baseline,5,1.3262030549077152e-06,52.50498321093634
+R_hard_037,hard,Curve-fit baseline,10,6.631015274538576e-07,78.06918147035191
+R_hard_037,hard,Curve-fit baseline,20,3.315507637269288e-07,117.4357569951032
+R_hard_037,hard,Curve-fit baseline,30,2.210338424846192e-07,155.6864524641184
+R_hard_037,hard,Oracle simulator,1,0.0,0.0
+R_hard_037,hard,Oracle simulator,5,0.0,0.0
+R_hard_037,hard,Oracle simulator,10,0.0,0.0
+R_hard_037,hard,Oracle simulator,20,0.0,0.0
+R_hard_037,hard,Oracle simulator,30,0.0,0.0
+R_hard_038,hard,Random baseline,1,0.05137192260599477,186.04414297426666
+R_hard_038,hard,Random baseline,5,0.07256155741137257,180.3056507988232
+R_hard_038,hard,Random baseline,10,0.07760017061975502,202.16590819408344
+R_hard_038,hard,Random baseline,20,0.11996903758706652,234.53974562683953
+R_hard_038,hard,Random baseline,30,0.12471817285385144,252.51920969932974
+R_hard_038,hard,Last-value baseline,1,0.0,4.164122131690306
+R_hard_038,hard,Last-value baseline,5,0.0,38.75301192736841
+R_hard_038,hard,Last-value baseline,10,0.0,58.98379697907727
+R_hard_038,hard,Last-value baseline,20,0.0,87.73009305423105
+R_hard_038,hard,Last-value baseline,30,0.0,92.56722870282071
+R_hard_038,hard,Curve-fit baseline,1,0.0,100.61648962312086
+R_hard_038,hard,Curve-fit baseline,5,0.0,108.55106355283382
+R_hard_038,hard,Curve-fit baseline,10,0.0,139.3498876144024
+R_hard_038,hard,Curve-fit baseline,20,0.0,180.8193438351722
+R_hard_038,hard,Curve-fit baseline,30,0.0,199.69439701589835
+R_hard_038,hard,Oracle simulator,1,0.0,0.0
+R_hard_038,hard,Oracle simulator,5,0.0,0.0
+R_hard_038,hard,Oracle simulator,10,0.0,0.0
+R_hard_038,hard,Oracle simulator,20,0.0,0.0
+R_hard_038,hard,Oracle simulator,30,0.0,0.0
+R_hard_039,hard,Random baseline,1,0.022981861926538616,145.2554346301925
+R_hard_039,hard,Random baseline,5,0.14360115138927948,104.18566220666462
+R_hard_039,hard,Random baseline,10,0.16398512496310488,124.14705295039548
+R_hard_039,hard,Random baseline,20,0.1614161319504455,122.57472812970268
+R_hard_039,hard,Random baseline,30,0.1775573310282041,163.47119864924449
+R_hard_039,hard,Last-value baseline,1,1.5679122014611302e-06,13.81810620242976
+R_hard_039,hard,Last-value baseline,5,1.5679122014611302e-06,43.38281516854839
+R_hard_039,hard,Last-value baseline,10,9.407473208766781e-07,81.34989073353304
+R_hard_039,hard,Last-value baseline,20,4.7037366043833906e-07,111.06415109664215
+R_hard_039,hard,Last-value baseline,30,3.1358244029222604e-07,162.65621809675983
+R_hard_039,hard,Curve-fit baseline,1,1.5679122014611302e-06,33.72615015252626
+R_hard_039,hard,Curve-fit baseline,5,1.5679122014611302e-06,46.415891150233996
+R_hard_039,hard,Curve-fit baseline,10,9.407473208766781e-07,68.65841694378048
+R_hard_039,hard,Curve-fit baseline,20,4.7037366043833906e-07,108.06658156582077
+R_hard_039,hard,Curve-fit baseline,30,3.1358244029222604e-07,151.8454053093307
+R_hard_039,hard,Oracle simulator,1,0.0,0.0
+R_hard_039,hard,Oracle simulator,5,0.0,0.0
+R_hard_039,hard,Oracle simulator,10,0.0,0.0
+R_hard_039,hard,Oracle simulator,20,0.0,0.0
+R_hard_039,hard,Oracle simulator,30,0.0,0.0
+R_hard_040,hard,Random baseline,1,0.07381980228307106,26.856074645329187
+R_hard_040,hard,Random baseline,5,0.16313470363380894,94.71344493493253
+R_hard_040,hard,Random baseline,10,0.17227932406358454,151.28529519286636
+R_hard_040,hard,Random baseline,20,0.1502040722348736,193.23913108586007
+R_hard_040,hard,Random baseline,30,0.15892919917091086,241.2494324419891
+R_hard_040,hard,Last-value baseline,1,4.44128108378905e-06,5.0139208746223005
+R_hard_040,hard,Last-value baseline,5,4.44128108378905e-06,47.69499248274215
+R_hard_040,hard,Last-value baseline,10,2.220640541894525e-06,90.19540794141214
+R_hard_040,hard,Last-value baseline,20,1.1103202709472626e-06,145.2439517583091
+R_hard_040,hard,Last-value baseline,30,7.402135139648417e-07,181.85560783887277
+R_hard_040,hard,Curve-fit baseline,1,4.44128108378905e-06,44.84733504475736
+R_hard_040,hard,Curve-fit baseline,5,4.44128108378905e-06,51.55545920910104
+R_hard_040,hard,Curve-fit baseline,10,2.220640541894525e-06,79.72747949402208
+R_hard_040,hard,Curve-fit baseline,20,1.1103202709472626e-06,139.51345175579485
+R_hard_040,hard,Curve-fit baseline,30,7.402135139648417e-07,170.44280777059654
+R_hard_040,hard,Oracle simulator,1,0.0,0.0
+R_hard_040,hard,Oracle simulator,5,0.0,0.0
+R_hard_040,hard,Oracle simulator,10,0.0,0.0
+R_hard_040,hard,Oracle simulator,20,0.0,0.0
+R_hard_040,hard,Oracle simulator,30,0.0,0.0
+R_hard_041,hard,Random baseline,1,0.004732306962336397,112.9269309795385
+R_hard_041,hard,Random baseline,5,0.0926596659839076,65.39844506129208
+R_hard_041,hard,Random baseline,10,0.16056121606315146,88.94574864135203
+R_hard_041,hard,Random baseline,20,0.17654597733657412,156.70687678516467
+R_hard_041,hard,Random baseline,30,0.16352110581503693,194.3480535513109
+R_hard_041,hard,Last-value baseline,1,1.829831519223335e-06,12.148608949534378
+R_hard_041,hard,Last-value baseline,5,1.8298315192399883e-06,58.084287606922246
+R_hard_041,hard,Last-value baseline,10,1.8298315192621928e-06,97.32054957658622
+R_hard_041,hard,Last-value baseline,20,1.0978989115617566e-06,169.31001178386563
+R_hard_041,hard,Last-value baseline,30,7.319326077078377e-07,210.71744118924374
+R_hard_041,hard,Curve-fit baseline,1,1.829831519223335e-06,22.58435583345397
+R_hard_041,hard,Curve-fit baseline,5,1.8298315192399883e-06,29.5396569211555
+R_hard_041,hard,Curve-fit baseline,10,1.8298315192621928e-06,53.303772848848936
+R_hard_041,hard,Curve-fit baseline,20,1.0978989115617566e-06,113.82133906561361
+R_hard_041,hard,Curve-fit baseline,30,7.319326077078377e-07,157.64727174594293
+R_hard_041,hard,Oracle simulator,1,0.0,0.0
+R_hard_041,hard,Oracle simulator,5,0.0,0.0
+R_hard_041,hard,Oracle simulator,10,0.0,0.0
+R_hard_041,hard,Oracle simulator,20,0.0,0.0
+R_hard_041,hard,Oracle simulator,30,0.0,0.0
+R_hard_042,hard,Random baseline,1,0.352736106846088,85.84104495250028
+R_hard_042,hard,Random baseline,5,0.16089133744922074,147.3621201936928
+R_hard_042,hard,Random baseline,10,0.11947109194092298,136.8073569184798
+R_hard_042,hard,Random baseline,20,0.12432223214134701,144.79121968727304
+R_hard_042,hard,Random baseline,30,0.14571731688992245,174.58282486417627
+R_hard_042,hard,Last-value baseline,1,4.367680913275329e-06,36.898704008544115
+R_hard_042,hard,Last-value baseline,5,4.367680913275329e-06,49.605800722480645
+R_hard_042,hard,Last-value baseline,10,4.367680913275329e-06,60.91707426233546
+R_hard_042,hard,Last-value baseline,20,4.367680913275329e-06,95.49338682913213
+R_hard_042,hard,Last-value baseline,30,4.367680913275329e-06,133.49046866193285
+R_hard_042,hard,Curve-fit baseline,1,4.367680913275329e-06,24.618919107133024
+R_hard_042,hard,Curve-fit baseline,5,4.367680913275329e-06,43.99779893557574
+R_hard_042,hard,Curve-fit baseline,10,4.367680913275329e-06,66.68392122414794
+R_hard_042,hard,Curve-fit baseline,20,4.367680913275329e-06,104.3466564236932
+R_hard_042,hard,Curve-fit baseline,30,4.367680913275329e-06,142.12526868473515
+R_hard_042,hard,Oracle simulator,1,0.0,0.0
+R_hard_042,hard,Oracle simulator,5,0.0,0.0
+R_hard_042,hard,Oracle simulator,10,0.0,0.0
+R_hard_042,hard,Oracle simulator,20,0.0,0.0
+R_hard_042,hard,Oracle simulator,30,0.0,0.0
+R_hard_043,hard,Random baseline,1,0.02677136183635652,142.37177980182426
+R_hard_043,hard,Random baseline,5,0.14330678959651819,56.33293359869945
+R_hard_043,hard,Random baseline,10,0.10296874193958565,62.74103971436316
+R_hard_043,hard,Random baseline,20,0.14239975870040486,93.73280553817025
+R_hard_043,hard,Random baseline,30,0.15291327457819812,157.92707154310696
+R_hard_043,hard,Last-value baseline,1,3.589876342108278e-06,1.1858393254406394
+R_hard_043,hard,Last-value baseline,5,3.589876342108278e-06,9.375703485467204
+R_hard_043,hard,Last-value baseline,10,3.5898763421110537e-06,13.150407269627527
+R_hard_043,hard,Last-value baseline,20,2.871901073696337e-06,105.59771159011457
+R_hard_043,hard,Last-value baseline,30,1.9146007157975578e-06,181.64321588659894
+R_hard_043,hard,Curve-fit baseline,1,3.589876342108278e-06,24.212053280642948
+R_hard_043,hard,Curve-fit baseline,5,3.589876342108278e-06,26.790794078200427
+R_hard_043,hard,Curve-fit baseline,10,3.5898763421110537e-06,31.599878062792765
+R_hard_043,hard,Curve-fit baseline,20,2.871901073696337e-06,87.4331147609692
+R_hard_043,hard,Curve-fit baseline,30,1.9146007157975578e-06,150.34511599025336
+R_hard_043,hard,Oracle simulator,1,0.0,0.0
+R_hard_043,hard,Oracle simulator,5,0.0,0.0
+R_hard_043,hard,Oracle simulator,10,0.0,0.0
+R_hard_043,hard,Oracle simulator,20,0.0,0.0
+R_hard_043,hard,Oracle simulator,30,0.0,0.0
+R_hard_044,hard,Random baseline,1,0.20219574162277087,59.16108995817089
+R_hard_044,hard,Random baseline,5,0.11804013465186287,61.34032692971257
+R_hard_044,hard,Random baseline,10,0.15069203786200436,83.10762558688654
+R_hard_044,hard,Random baseline,20,0.13421736225492695,124.62767210550685
+R_hard_044,hard,Random baseline,30,0.14928214247120625,162.71909310759327
+R_hard_044,hard,Last-value baseline,1,0.0,2.8409431036891135
+R_hard_044,hard,Last-value baseline,5,0.0,22.099355553124134
+R_hard_044,hard,Last-value baseline,10,0.0,55.13967497403778
+R_hard_044,hard,Last-value baseline,20,0.0,108.48987562968395
+R_hard_044,hard,Last-value baseline,30,0.0,151.51335515716204
+R_hard_044,hard,Curve-fit baseline,1,0.0,22.572730196152094
+R_hard_044,hard,Curve-fit baseline,5,0.0,32.68272830859142
+R_hard_044,hard,Curve-fit baseline,10,0.0,48.284123164137206
+R_hard_044,hard,Curve-fit baseline,20,0.0,97.09649369324515
+R_hard_044,hard,Curve-fit baseline,30,0.0,141.0985956464459
+R_hard_044,hard,Oracle simulator,1,0.0,0.0
+R_hard_044,hard,Oracle simulator,5,0.0,0.0
+R_hard_044,hard,Oracle simulator,10,0.0,0.0
+R_hard_044,hard,Oracle simulator,20,0.0,0.0
+R_hard_044,hard,Oracle simulator,30,0.0,0.0
+R_hard_045,hard,Random baseline,1,0.03011063370506839,12.10069340529526
+R_hard_045,hard,Random baseline,5,0.13786858968414145,73.90250778577354
+R_hard_045,hard,Random baseline,10,0.138479847482607,119.29244227639492
+R_hard_045,hard,Random baseline,20,0.1370006514270034,186.76016290350202
+R_hard_045,hard,Random baseline,30,0.1220517208652287,195.23649358644417
+R_hard_045,hard,Last-value baseline,1,5.551115123125783e-17,2.1658430831769806
+R_hard_045,hard,Last-value baseline,5,5.551115123125783e-17,17.85203065029443
+R_hard_045,hard,Last-value baseline,10,8.326672684688674e-17,42.08041332658384
+R_hard_045,hard,Last-value baseline,20,6.938893903907228e-17,99.41321772824861
+R_hard_045,hard,Last-value baseline,30,4.625929269271486e-17,122.48507848549906
+R_hard_045,hard,Curve-fit baseline,1,5.551115123125783e-17,45.188680051448614
+R_hard_045,hard,Curve-fit baseline,5,5.551115123125783e-17,65.96685611193254
+R_hard_045,hard,Curve-fit baseline,10,8.326672684688674e-17,93.43471719841423
+R_hard_045,hard,Curve-fit baseline,20,6.938893903907228e-17,144.4925244457758
+R_hard_045,hard,Curve-fit baseline,30,4.625929269271486e-17,176.84405310957828
+R_hard_045,hard,Oracle simulator,1,0.0,0.0
+R_hard_045,hard,Oracle simulator,5,0.0,0.0
+R_hard_045,hard,Oracle simulator,10,0.0,0.0
+R_hard_045,hard,Oracle simulator,20,0.0,0.0
+R_hard_045,hard,Oracle simulator,30,0.0,0.0
+R_hard_046,hard,Random baseline,1,0.24247117454748887,74.9662874591204
+R_hard_046,hard,Random baseline,5,0.19267043934362377,182.80999159960007
+R_hard_046,hard,Random baseline,10,0.16954953517625837,203.4483689036496
+R_hard_046,hard,Random baseline,20,0.1684588524457132,236.1611415987226
+R_hard_046,hard,Random baseline,30,0.14498240071511045,236.75441106714632
+R_hard_046,hard,Last-value baseline,1,1.2190909243203762e-07,37.990236717031394
+R_hard_046,hard,Last-value baseline,5,7.314545545922257e-08,67.90428617932716
+R_hard_046,hard,Last-value baseline,10,3.6572727729611286e-08,103.61479998817784
+R_hard_046,hard,Last-value baseline,20,1.8286363864805643e-08,141.01827665503112
+R_hard_046,hard,Last-value baseline,30,1.2190909243203763e-08,151.88361777002075
+R_hard_046,hard,Curve-fit baseline,1,1.2190909243203762e-07,1.6514520392400982
+R_hard_046,hard,Curve-fit baseline,5,7.314545545922257e-08,24.342145746469736
+R_hard_046,hard,Curve-fit baseline,10,3.6572727729611286e-08,74.33689457627943
+R_hard_046,hard,Curve-fit baseline,20,1.8286363864805643e-08,138.11609352823626
+R_hard_046,hard,Curve-fit baseline,30,1.2190909243203763e-08,161.62771900878644
+R_hard_046,hard,Oracle simulator,1,0.0,0.0
+R_hard_046,hard,Oracle simulator,5,0.0,0.0
+R_hard_046,hard,Oracle simulator,10,0.0,0.0
+R_hard_046,hard,Oracle simulator,20,0.0,0.0
+R_hard_046,hard,Oracle simulator,30,0.0,0.0
+R_hard_047,hard,Random baseline,1,0.10035161821068495,17.31605921281033
+R_hard_047,hard,Random baseline,5,0.11426257739781373,83.03572383054815
+R_hard_047,hard,Random baseline,10,0.09406966403306177,106.61738221150094
+R_hard_047,hard,Random baseline,20,0.11661897782709876,145.02516515729988
+R_hard_047,hard,Random baseline,30,0.11988048254494685,170.86897079347287
+R_hard_047,hard,Last-value baseline,1,1.5525192797460896e-06,3.6273074198155086
+R_hard_047,hard,Last-value baseline,5,1.5525192797460896e-06,16.669236226632925
+R_hard_047,hard,Last-value baseline,10,1.5525192797738452e-06,30.263125539639873
+R_hard_047,hard,Last-value baseline,20,1.552519279787723e-06,78.44014635169336
+R_hard_047,hard,Last-value baseline,30,1.5525192797923488e-06,111.82989860718133
+R_hard_047,hard,Curve-fit baseline,1,1.5525192797460896e-06,38.31489404816807
+R_hard_047,hard,Curve-fit baseline,5,1.5525192797460896e-06,56.60712735887078
+R_hard_047,hard,Curve-fit baseline,10,1.5525192797738452e-06,77.75811098758885
+R_hard_047,hard,Curve-fit baseline,20,1.552519279787723e-06,117.07081439355272
+R_hard_047,hard,Curve-fit baseline,30,1.5525192797923488e-06,152.76397012131824
+R_hard_047,hard,Oracle simulator,1,0.0,0.0
+R_hard_047,hard,Oracle simulator,5,0.0,0.0
+R_hard_047,hard,Oracle simulator,10,0.0,0.0
+R_hard_047,hard,Oracle simulator,20,0.0,0.0
+R_hard_047,hard,Oracle simulator,30,0.0,0.0
+R_hard_048,hard,Random baseline,1,0.0240894592817546,104.11922483770192
+R_hard_048,hard,Random baseline,5,0.12684300615243127,72.39823799536141
+R_hard_048,hard,Random baseline,10,0.16362861284883687,91.92636417450868
+R_hard_048,hard,Random baseline,20,0.1682788725536469,126.84812960618963
+R_hard_048,hard,Random baseline,30,0.16458168299527878,174.73495293805252
+R_hard_048,hard,Last-value baseline,1,2.2479600225722152e-07,4.391850760942873
+R_hard_048,hard,Last-value baseline,5,2.2479600225722152e-07,17.258135025669798
+R_hard_048,hard,Last-value baseline,10,2.2479600225722152e-07,32.511307783806025
+R_hard_048,hard,Last-value baseline,20,1.4611740146719398e-07,72.38248326048188
+R_hard_048,hard,Last-value baseline,30,9.741160097812933e-08,118.59033291069427
+R_hard_048,hard,Curve-fit baseline,1,2.2479600225722152e-07,50.73673382869612
+R_hard_048,hard,Curve-fit baseline,5,2.2479600225722152e-07,60.5276254293923
+R_hard_048,hard,Curve-fit baseline,10,2.2479600225722152e-07,77.20165270011792
+R_hard_048,hard,Curve-fit baseline,20,1.4611740146719398e-07,114.71234117045758
+R_hard_048,hard,Curve-fit baseline,30,9.741160097812933e-08,152.68388154821903
+R_hard_048,hard,Oracle simulator,1,0.0,0.0
+R_hard_048,hard,Oracle simulator,5,0.0,0.0
+R_hard_048,hard,Oracle simulator,10,0.0,0.0
+R_hard_048,hard,Oracle simulator,20,0.0,0.0
+R_hard_048,hard,Oracle simulator,30,0.0,0.0
+R_hard_049,hard,Random baseline,1,0.0804938988093705,135.89448369687514
+R_hard_049,hard,Random baseline,5,0.08459035888922477,121.16163421611448
+R_hard_049,hard,Random baseline,10,0.12624175386294856,149.22620353824695
+R_hard_049,hard,Random baseline,20,0.14657076876553404,234.7361524337203
+R_hard_049,hard,Random baseline,30,0.15614561847444983,260.38917774762126
+R_hard_049,hard,Last-value baseline,1,5.551115123125783e-17,3.509546700268686
+R_hard_049,hard,Last-value baseline,5,5.551115123125783e-17,29.268592246520974
+R_hard_049,hard,Last-value baseline,10,4.9960036108132046e-17,70.65934357567895
+R_hard_049,hard,Last-value baseline,20,2.4980018054066023e-17,140.66594382688123
+R_hard_049,hard,Last-value baseline,30,1.6653345369377347e-17,171.18750255125417
+R_hard_049,hard,Curve-fit baseline,1,5.551115123125783e-17,50.380707641168385
+R_hard_049,hard,Curve-fit baseline,5,5.551115123125783e-17,66.97294244732325
+R_hard_049,hard,Curve-fit baseline,10,4.9960036108132046e-17,92.3606961686429
+R_hard_049,hard,Curve-fit baseline,20,2.4980018054066023e-17,146.96584690425465
+R_hard_049,hard,Curve-fit baseline,30,1.6653345369377347e-17,174.52686352443814
+R_hard_049,hard,Oracle simulator,1,0.0,0.0
+R_hard_049,hard,Oracle simulator,5,0.0,0.0
+R_hard_049,hard,Oracle simulator,10,0.0,0.0
+R_hard_049,hard,Oracle simulator,20,0.0,0.0
+R_hard_049,hard,Oracle simulator,30,0.0,0.0
+R_hard_050,hard,Random baseline,1,0.33314257582181667,1.2169503340579695
+R_hard_050,hard,Random baseline,5,0.22600373540171087,77.38393998029464
+R_hard_050,hard,Random baseline,10,0.17480881303480472,103.46451485393841
+R_hard_050,hard,Random baseline,20,0.16164258641606757,168.91358754558775
+R_hard_050,hard,Random baseline,30,0.16126962223108468,204.80302197603584
+R_hard_050,hard,Last-value baseline,1,3.558889549726274e-07,31.551977756455756
+R_hard_050,hard,Last-value baseline,5,3.558889549726274e-07,59.185353071016536
+R_hard_050,hard,Last-value baseline,10,2.491222684808392e-07,89.94448421225502
+R_hard_050,hard,Last-value baseline,20,1.245611342404196e-07,120.31101894301628
+R_hard_050,hard,Last-value baseline,30,8.304075616027973e-08,158.37482929534417
+R_hard_050,hard,Curve-fit baseline,1,3.558889549726274e-07,38.5200793100006
+R_hard_050,hard,Curve-fit baseline,5,3.558889549726274e-07,50.84285519630909
+R_hard_050,hard,Curve-fit baseline,10,2.491222684808392e-07,75.66208970893203
+R_hard_050,hard,Curve-fit baseline,20,1.245611342404196e-07,129.6303593477688
+R_hard_050,hard,Curve-fit baseline,30,8.304075616027973e-08,156.8543866986186
+R_hard_050,hard,Oracle simulator,1,0.0,0.0
+R_hard_050,hard,Oracle simulator,5,0.0,0.0
+R_hard_050,hard,Oracle simulator,10,0.0,0.0
+R_hard_050,hard,Oracle simulator,20,0.0,0.0
+R_hard_050,hard,Oracle simulator,30,0.0,0.0
+R_hard_051,hard,Random baseline,1,0.0896769414208976,76.1099539762624
+R_hard_051,hard,Random baseline,5,0.17989245914556878,113.80297370875459
+R_hard_051,hard,Random baseline,10,0.15494096096075433,158.47013390164395
+R_hard_051,hard,Random baseline,20,0.18166729173208332,200.6896333870537
+R_hard_051,hard,Random baseline,30,0.18753813321519075,234.4305339895744
+R_hard_051,hard,Last-value baseline,1,2.724678007604009e-06,1.147981278409759
+R_hard_051,hard,Last-value baseline,5,2.724678007604009e-06,41.090730684731305
+R_hard_051,hard,Last-value baseline,10,2.7246780075762533e-06,69.44042750199836
+R_hard_051,hard,Last-value baseline,20,1.3623390037881267e-06,147.22090891809873
+R_hard_051,hard,Last-value baseline,30,9.082260025254177e-07,181.4998092787325
+R_hard_051,hard,Curve-fit baseline,1,2.724678007604009e-06,51.92306910720626
+R_hard_051,hard,Curve-fit baseline,5,2.724678007604009e-06,60.478517873345616
+R_hard_051,hard,Curve-fit baseline,10,2.7246780075762533e-06,80.1154987542135
+R_hard_051,hard,Curve-fit baseline,20,1.3623390037881267e-06,135.25089032122222
+R_hard_051,hard,Curve-fit baseline,30,9.082260025254177e-07,169.47459085213328
+R_hard_051,hard,Oracle simulator,1,0.0,0.0
+R_hard_051,hard,Oracle simulator,5,0.0,0.0
+R_hard_051,hard,Oracle simulator,10,0.0,0.0
+R_hard_051,hard,Oracle simulator,20,0.0,0.0
+R_hard_051,hard,Oracle simulator,30,0.0,0.0
+R_hard_052,hard,Random baseline,1,0.2640478931682888,23.669467665849425
+R_hard_052,hard,Random baseline,5,0.13690403797592487,89.18966423273397
+R_hard_052,hard,Random baseline,10,0.17571839088124208,107.11239559863445
+R_hard_052,hard,Random baseline,20,0.17130287984122566,175.6365171260286
+R_hard_052,hard,Random baseline,30,0.1605949177266139,202.84992778146838
+R_hard_052,hard,Last-value baseline,1,2.7318732910841526e-06,2.0601696566601504
+R_hard_052,hard,Last-value baseline,5,2.7318732910841526e-06,7.789079941772167
+R_hard_052,hard,Last-value baseline,10,2.458685961975737e-06,34.49411841199128
+R_hard_052,hard,Last-value baseline,20,1.2293429809878686e-06,93.2423566683391
+R_hard_052,hard,Last-value baseline,30,8.195619873252457e-07,126.30071212826257
+R_hard_052,hard,Curve-fit baseline,1,2.7318732910841526e-06,25.114409407429548
+R_hard_052,hard,Curve-fit baseline,5,2.7318732910841526e-06,52.46097236690157
+R_hard_052,hard,Curve-fit baseline,10,2.458685961975737e-06,65.47509463499193
+R_hard_052,hard,Curve-fit baseline,20,1.2293429809878686e-06,108.24682356320587
+R_hard_052,hard,Curve-fit baseline,30,8.195619873252457e-07,150.38476697332553
+R_hard_052,hard,Oracle simulator,1,0.0,0.0
+R_hard_052,hard,Oracle simulator,5,0.0,0.0
+R_hard_052,hard,Oracle simulator,10,0.0,0.0
+R_hard_052,hard,Oracle simulator,20,0.0,0.0
+R_hard_052,hard,Oracle simulator,30,0.0,0.0
+R_hard_053,hard,Random baseline,1,0.22022637488982943,122.98361115366149
+R_hard_053,hard,Random baseline,5,0.11923677093430132,119.50692396997488
+R_hard_053,hard,Random baseline,10,0.11880638645930533,124.79714438386
+R_hard_053,hard,Random baseline,20,0.1492428479852449,180.57108803121812
+R_hard_053,hard,Random baseline,30,0.15079674046223393,211.5070340807725
+R_hard_053,hard,Last-value baseline,1,2.0140980259708563e-06,2.0923417316888617
+R_hard_053,hard,Last-value baseline,5,2.0140980259708563e-06,8.094735953478391
+R_hard_053,hard,Last-value baseline,10,1.4098686181795995e-06,49.6086532682349
+R_hard_053,hard,Last-value baseline,20,7.049343090897997e-07,98.01091972884535
+R_hard_053,hard,Last-value baseline,30,4.6995620605986644e-07,135.26757294222577
+R_hard_053,hard,Curve-fit baseline,1,2.0140980259708563e-06,20.331708823187512
+R_hard_053,hard,Curve-fit baseline,5,2.0140980259708563e-06,43.888203436858575
+R_hard_053,hard,Curve-fit baseline,10,1.4098686181795995e-06,62.697435815748555
+R_hard_053,hard,Curve-fit baseline,20,7.049343090897997e-07,119.60333340527716
+R_hard_053,hard,Curve-fit baseline,30,4.6995620605986644e-07,156.4311048821487
+R_hard_053,hard,Oracle simulator,1,0.0,0.0
+R_hard_053,hard,Oracle simulator,5,0.0,0.0
+R_hard_053,hard,Oracle simulator,10,0.0,0.0
+R_hard_053,hard,Oracle simulator,20,0.0,0.0
+R_hard_053,hard,Oracle simulator,30,0.0,0.0
+R_easy_000,easy,gpt-4o,1,3.1241572097662207e-06,1.626763988949108
+R_easy_000,easy,gpt-4o,5,3.1241572097717717e-06,1.6824270033783677
+R_easy_000,easy,gpt-4o,10,3.1241572097884252e-06,3.3610264655383117
+R_easy_000,easy,gpt-4o,20,3.1241572097939763e-06,7.432818271597372
+R_easy_000,easy,gpt-4o,30,3.1241572097870374e-06,9.067456379729599
+R_easy_001,easy,gpt-4o,1,2.504422135646278e-06,1.8976764386873697
+R_easy_001,easy,gpt-4o,5,2.504422135640727e-06,2.2558642970080056
+R_easy_001,easy,gpt-4o,10,2.504422135646278e-06,2.6514753031834757
+R_easy_001,easy,gpt-4o,20,2.504422135648013e-06,2.853222140296541
+R_easy_001,easy,gpt-4o,30,2.504422135641421e-06,3.0987758313514235
+R_easy_002,easy,gpt-4o,1,9.734763242869038e-07,2.35389981529579
+R_easy_002,easy,gpt-4o,5,9.734763242813528e-07,2.0110853429294364
+R_easy_002,easy,gpt-4o,10,9.734763242910672e-07,2.0089156391293757
+R_easy_002,easy,gpt-4o,20,0.0023307301072432217,2.0042075241885327
+R_easy_002,easy,gpt-4o,30,0.004660486738162149,2.1000237496839795
+R_easy_003,easy,gpt-4o,1,1.3726649797651813e-06,0.3494320775689346
+R_easy_003,easy,gpt-4o,5,1.3726649797568546e-06,0.5521503006236742
+R_easy_003,easy,gpt-4o,10,1.3726649797665692e-06,0.9930323688977183
+R_easy_003,easy,gpt-4o,20,1.3726649797662221e-06,3.2295011219217096
+R_easy_003,easy,gpt-4o,30,1.3726649797482968e-06,7.41014131048664
+R_easy_004,easy,gpt-4o,1,7.836239621222818e-07,2.086471034200784
+R_easy_004,easy,gpt-4o,5,7.836239621264452e-07,1.5383904154040748
+R_easy_004,easy,gpt-4o,10,7.836239621215879e-07,1.5714680290624188
+R_easy_004,easy,gpt-4o,20,7.836239621156899e-07,1.404972606960969
+R_easy_004,easy,gpt-4o,30,7.836239621197375e-07,1.631695431865083
+R_easy_005,easy,gpt-4o,1,3.6747607225010026e-06,2.912798008034571
+R_easy_005,easy,gpt-4o,5,3.6747607225093294e-06,1.7461428959824417
+R_easy_005,easy,gpt-4o,10,0.0026843072846502655,2.452043989739643
+R_easy_005,easy,gpt-4o,20,0.04761715364232514,10.934032282858867
+R_easy_005,easy,gpt-4o,30,0.06484810242821676,16.683645289301168
+R_easy_006,easy,gpt-4o,1,4.790163636830824e-06,5.704003513470326
+R_easy_006,easy,gpt-4o,5,0.000204790163636831,6.250859425270326
+R_easy_006,easy,gpt-4o,10,0.0006047901636368355,7.486181128285236
+R_easy_006,easy,gpt-4o,20,0.0008047901636368329,6.366622991225479
+R_easy_006,easy,gpt-4o,30,0.0008714568303034937,5.123480350957454
+R_easy_007,easy,gpt-4o,1,2.955359648310063e-06,0.34502775917896145
+R_easy_007,easy,gpt-4o,5,2.955359648310063e-06,0.43707682968263556
+R_easy_007,easy,gpt-4o,10,2.955359648311451e-06,1.350655916874696
+R_easy_007,easy,gpt-4o,20,2.9553596483109304e-06,3.8649852420957265
+R_easy_007,easy,gpt-4o,30,2.9553596483212807e-06,6.437608395850063
+R_easy_008,easy,gpt-4o,1,4.7378305595424663e-07,4.602403354586585
+R_easy_008,easy,gpt-4o,5,4.737830559709e-07,3.897133823128212
+R_easy_008,easy,gpt-4o,10,4.7378305597367556e-07,2.730494020057597
+R_easy_008,easy,gpt-4o,20,4.737830559712469e-07,3.578545095490086
+R_easy_008,easy,gpt-4o,30,4.7378305596511756e-07,4.727389276338742
+R_easy_009,easy,gpt-4o,1,1.6826751154108699e-06,10.404722993743803
+R_easy_009,easy,gpt-4o,5,1.6826751154108699e-06,9.03501492808754
+R_easy_009,easy,gpt-4o,10,1.6826751154108699e-06,7.849436086403249
+R_easy_009,easy,gpt-4o,20,1.6826751154237069e-06,4.7564520487474455
+R_easy_009,easy,gpt-4o,30,1.6826751154281593e-06,4.609509866749389
+R_easy_010,easy,gpt-4o,1,5.2170331860112995e-08,2.800227088329308
+R_easy_010,easy,gpt-4o,5,5.217033186566411e-08,3.6103163494140516
+R_easy_010,easy,gpt-4o,10,5.217033186705189e-08,5.763509252351019
+R_easy_010,easy,gpt-4o,20,5.217033186397275e-08,10.755597263593433
+R_easy_010,easy,gpt-4o,30,5.2170331865924316e-08,13.661960927316091
+R_easy_011,easy,gpt-4o,1,0.0006,0.14571917026862025
+R_easy_011,easy,gpt-4o,5,0.0004400000000000048,1.5075914279725111
+R_easy_011,easy,gpt-4o,10,0.0004200000000000043,1.227498552178703
+R_easy_011,easy,gpt-4o,20,0.0004099999999999982,1.8991218138446584
+R_easy_011,easy,gpt-4o,30,0.0004066666666666554,5.037752691123061
+R_easy_012,easy,gpt-4o,1,1.2916445822908074e-06,6.1823026445401865
+R_easy_012,easy,gpt-4o,5,1.291644582279705e-06,3.6446727243551322
+R_easy_012,easy,gpt-4o,10,1.2916445822852563e-06,3.2047469205131165
+R_easy_012,easy,gpt-4o,20,1.2916445822658273e-06,6.828322238161934
+R_easy_012,easy,gpt-4o,30,1.2916445822500992e-06,9.745147044580653
+R_easy_013,easy,gpt-4o,1,1.6105980719105517e-06,1.3124640531381147
+R_easy_013,easy,gpt-4o,5,1.6105980719077762e-06,1.2870572916819953
+R_easy_013,easy,gpt-4o,10,1.610598071895286e-06,1.430664481836247
+R_easy_013,easy,gpt-4o,20,1.6105980718845309e-06,2.1050156431995495
+R_easy_013,easy,gpt-4o,30,1.610598071892048e-06,4.229110833042007
+R_easy_014,easy,gpt-4o,1,1.7511959713584213e-07,3.155695999465962
+R_easy_014,easy,gpt-4o,5,0.012304035023919427,5.709109845954879
+R_easy_014,easy,gpt-4o,10,0.01384201751195972,6.686728830186522
+R_easy_014,easy,gpt-4o,20,0.014611008755979895,6.185112764820308
+R_easy_014,easy,gpt-4o,30,0.014867339170653285,5.648636307237917
+R_easy_015,easy,gpt-4o,1,1.7027880536840678e-06,0.44807650954773237
+R_easy_015,easy,gpt-4o,5,0.0007989783271677841,0.6434954956320353
+R_easy_015,easy,gpt-4o,10,0.0008986377695570456,1.104753406066753
+R_easy_015,easy,gpt-4o,20,0.008036233745375838,4.0386203758173185
+R_easy_015,easy,gpt-4o,30,0.018297489163583893,7.384436513382984
+R_easy_016,easy,gpt-4o,1,1.3877787807814457e-17,2.0115824904921595
+R_easy_016,easy,gpt-4o,5,1.9428902930940238e-17,3.5098645254636067
+R_easy_016,easy,gpt-4o,10,1.8735013540549518e-17,4.891321059096254
+R_easy_016,easy,gpt-4o,20,2.0122792321330962e-17,8.081623554832605
+R_easy_016,easy,gpt-4o,30,3.631354476378116e-17,11.644462255442678
+R_easy_017,easy,gpt-4o,1,4.400895008110917e-06,2.1787112254842924
+R_easy_017,easy,gpt-4o,5,0.0002044008950080972,2.019528930897289
+R_easy_017,easy,gpt-4o,10,0.0006044008950081073,2.486950525247231
+R_easy_017,easy,gpt-4o,20,0.0008044008950081137,6.736563909723463
+R_easy_017,easy,gpt-4o,30,0.0008710675616747714,12.0987069167165
+R_medium_018,medium,gpt-4o,1,4.822899214704246e-06,0.1302046143975133
+R_medium_018,medium,gpt-4o,5,4.822899214704246e-06,0.8560985957439045
+R_medium_018,medium,gpt-4o,10,4.822899214704246e-06,3.2370754887305537
+R_medium_018,medium,gpt-4o,20,4.822899214723675e-06,13.773328679812261
+R_medium_018,medium,gpt-4o,30,4.822899214739403e-06,30.596386315119723
+R_medium_019,medium,gpt-4o,1,4.556346157286173e-06,6.879005924829244
+R_medium_019,medium,gpt-4o,5,4.556346157286173e-06,7.6469537011348105
+R_medium_019,medium,gpt-4o,10,4.556346157288255e-06,9.74213310713375
+R_medium_019,medium,gpt-4o,20,4.556346157279581e-06,14.773519234908912
+R_medium_019,medium,gpt-4o,30,4.5563461572666285e-06,22.045900609769724
+R_medium_020,medium,gpt-4o,1,3.4195422615179716e-06,1.447186509488887
+R_medium_020,medium,gpt-4o,5,3.419542261490216e-06,5.732971293191463
+R_medium_020,medium,gpt-4o,10,3.4195422614763382e-06,8.517591424994293
+R_medium_020,medium,gpt-4o,20,3.4195422614693993e-06,17.73224051373952
+R_medium_020,medium,gpt-4o,30,3.4195422614337795e-06,37.123775275343654
+R_medium_021,medium,gpt-4o,1,1.936081653552968e-06,4.454453160435989
+R_medium_021,medium,gpt-4o,5,1.9360816535488047e-06,5.136884686704894
+R_medium_021,medium,gpt-4o,10,1.9360816535494985e-06,6.738687813496023
+R_medium_021,medium,gpt-4o,20,2.1161648992133393e-05,10.864121750996407
+R_medium_021,medium,gpt-4o,30,7.012907211023355e-05,20.370083944529767
+R_medium_022,medium,gpt-4o,1,0.000702602857626855,1.680291485485526
+R_medium_022,medium,gpt-4o,5,0.000702602857626844,2.1499771945216706
+R_medium_022,medium,gpt-4o,10,0.0007126028576268428,5.613502159375758
+R_medium_022,medium,gpt-4o,20,0.0007576028576268282,15.102755139625298
+R_medium_022,medium,gpt-4o,30,0.0007726028576268001,30.66861166632452
+R_medium_023,medium,gpt-4o,1,2.8558243674592365e-06,5.037238925202388
+R_medium_023,medium,gpt-4o,5,2.8558243674592365e-06,8.152129568257914
+R_medium_023,medium,gpt-4o,10,2.8558243674536855e-06,15.827706933097465
+R_medium_023,medium,gpt-4o,20,2.855824367449088e-06,27.027399216749615
+R_medium_023,medium,gpt-4o,30,2.8558243674409063e-06,33.086403152931
+R_medium_024,medium,gpt-4o,1,1.3877787807814457e-17,0.6477858549689159
+R_medium_024,medium,gpt-4o,5,5.551115123125783e-18,6.9958983878961165
+R_medium_024,medium,gpt-4o,10,2.7755575615628915e-18,12.265016488974258
+R_medium_024,medium,gpt-4o,20,4.163336342344337e-18,20.78174198755901
+R_medium_024,medium,gpt-4o,30,4.163336342344337e-18,28.09735868069417
+R_medium_025,medium,gpt-4o,1,0.0,11.00435097129963
+R_medium_025,medium,gpt-4o,5,3.122502256758253e-18,11.222662156551078
+R_medium_025,medium,gpt-4o,10,7.112366251504908e-18,16.471667987659792
+R_medium_025,medium,gpt-4o,20,4.9439619065339e-18,26.77834483580807
+R_medium_025,medium,gpt-4o,30,5.146346312064528e-18,43.54830247012121
+R_medium_026,medium,gpt-4o,1,2.9761429018448915e-07,0.4127687903300341
+R_medium_026,medium,gpt-4o,5,2.976142902011425e-07,2.2145577167966453
+R_medium_026,medium,gpt-4o,10,2.976142902205714e-07,4.1124811510330685
+R_medium_026,medium,gpt-4o,20,2.976142902212653e-07,8.5290654993893
+R_medium_026,medium,gpt-4o,30,2.976142902136325e-07,16.539007840519844
+R_medium_027,medium,gpt-4o,1,0.004797594027801139,4.084401899096264
+R_medium_027,medium,gpt-4o,5,0.0047975940278011334,6.967597305266213
+R_medium_027,medium,gpt-4o,10,0.004797594027801155,13.445158340587927
+R_medium_027,medium,gpt-4o,20,0.004797594027801169,24.594935454728514
+R_medium_027,medium,gpt-4o,30,0.004797594027801182,34.16240419768542
+R_medium_028,medium,gpt-4o,1,2.1527458684555967e-06,3.558511776024801
+R_medium_028,medium,gpt-4o,5,2.1527458684500456e-06,2.830584023709588
+R_medium_028,medium,gpt-4o,10,2.152745868441719e-06,7.401435287979507
+R_medium_028,medium,gpt-4o,20,2.152745868423678e-06,14.554583029634376
+R_medium_028,medium,gpt-4o,30,0.0015178657130859566,26.14170202916097
+R_medium_029,medium,gpt-4o,1,6.938893903907228e-18,4.457619509005781
+R_medium_029,medium,gpt-4o,5,6.938893903907228e-18,5.141381354389256
+R_medium_029,medium,gpt-4o,10,9.714451465470119e-18,7.267710690068611
+R_medium_029,medium,gpt-4o,20,1.9428902930940238e-17,13.215644190242097
+R_medium_029,medium,gpt-4o,30,2.4980018054066023e-17,24.432471385756
+R_medium_030,medium,gpt-4o,1,1.8663809051577829e-06,4.9663769974919205
+R_medium_030,medium,gpt-4o,5,1.8663809051577829e-06,4.966103061497023
+R_medium_030,medium,gpt-4o,10,1.8663809051550074e-06,11.122719879859128
+R_medium_030,medium,gpt-4o,20,1.8663809051730485e-06,38.70536171917271
+R_medium_030,medium,gpt-4o,30,1.866380905188314e-06,64.87556611305034
+R_medium_031,medium,gpt-4o,1,3.83998304404401e-06,5.8822649904333275
+R_medium_031,medium,gpt-4o,5,3.839983044042622e-06,6.682476610911803
+R_medium_031,medium,gpt-4o,10,3.839983044063785e-06,10.231701661026365
+R_medium_031,medium,gpt-4o,20,3.83998304408998e-06,14.687452578027736
+R_medium_031,medium,gpt-4o,30,3.8399830441012556e-06,21.134411110752332
+R_medium_032,medium,gpt-4o,1,2.9973759601564787e-06,11.277498590371351
+R_medium_032,medium,gpt-4o,5,2.9973759601675807e-06,17.867374426809636
+R_medium_032,medium,gpt-4o,10,2.9973759601786832e-06,23.944639603613755
+R_medium_032,medium,gpt-4o,20,2.99737596018701e-06,36.444823597712734
+R_medium_032,medium,gpt-4o,30,2.997375960172207e-06,51.41010862777364
+R_medium_033,medium,gpt-4o,1,4.176429354324496e-06,1.2941018390306454
+R_medium_033,medium,gpt-4o,5,4.176429354335598e-06,8.236927739081745
+R_medium_033,medium,gpt-4o,10,4.1764293543383735e-06,18.93537104407671
+R_medium_033,medium,gpt-4o,20,4.176429354317557e-06,34.60952512996934
+R_medium_033,medium,gpt-4o,30,4.176429354317094e-06,48.43538963257943
+R_medium_034,medium,gpt-4o,1,1.193456948211935e-06,3.164178915164058
+R_medium_034,medium,gpt-4o,5,1.193456948211935e-06,26.90384732990673
+R_medium_034,medium,gpt-4o,10,1.1934569482341396e-06,41.78108326667581
+R_medium_034,medium,gpt-4o,20,0.0024531337841008386,64.707571930773
+R_medium_034,medium,gpt-4o,30,0.04158208918940054,80.12603560360796
+R_medium_035,medium,gpt-4o,1,8.865386524059549e-07,2.7502804106208316
+R_medium_035,medium,gpt-4o,5,8.865386524073426e-07,2.7941792326342947
+R_medium_035,medium,gpt-4o,10,8.865386524121998e-07,8.200479197545302
+R_medium_035,medium,gpt-4o,20,8.865386524215674e-07,14.30477865718808
+R_medium_035,medium,gpt-4o,30,8.865386524228395e-07,25.432877903135832
+R_hard_036,hard,gpt-4o,1,1.49472807847717e-06,0.030353905515482893
+R_hard_036,hard,gpt-4o,5,1.4947280785160278e-06,9.766400847840123
+R_hard_036,hard,gpt-4o,10,1.49472807850215e-06,27.16554872138409
+R_hard_036,hard,gpt-4o,20,1.4947280784730066e-06,61.72419716994365
+R_hard_036,hard,gpt-4o,30,1.4947280784558906e-06,95.08691003126873
+R_hard_037,hard,gpt-4o,1,2.210338424846192e-06,27.282663724065742
+R_hard_037,hard,gpt-4o,5,0.004441326203054907,41.9830526846858
+R_hard_037,hard,gpt-4o,10,0.007770663101527453,50.05433113861306
+R_hard_037,hard,gpt-4o,20,0.009435331550763718,88.65741318302003
+R_hard_037,hard,gpt-4o,30,0.02203688770050912,127.76687262401111
+R_hard_038,hard,gpt-4o,1,0.0,0.6901221316903161
+R_hard_038,hard,gpt-4o,5,1.1102230246251566e-17,34.53741192736841
+R_hard_038,hard,gpt-4o,10,1.6653345369377347e-17,57.862996979077266
+R_hard_038,hard,gpt-4o,20,4.302114220422482e-17,92.68169305423103
+R_hard_038,hard,gpt-4o,30,4.4408920985006264e-17,99.8596287028207
+R_hard_039,hard,gpt-4o,1,1.567912201405619e-06,8.81810620242976
+R_hard_039,hard,gpt-4o,5,1.5679122014167213e-06,24.278815168548384
+R_hard_039,hard,gpt-4o,10,0.02419694074732085,41.17189073353303
+R_hard_039,hard,gpt-4o,20,0.05640847037366044,63.87715109664214
+R_hard_039,hard,gpt-4o,30,0.10881898024910693,87.12488476342648
+R_hard_040,hard,gpt-4o,1,4.44128108378905e-06,9.9860791253777
+R_hard_040,hard,gpt-4o,5,4.441281083755743e-06,31.86662413289323
+R_hard_040,hard,gpt-4o,10,0.016707220640541857,59.943323766487694
+R_hard_040,hard,gpt-4o,20,0.0401636103202709,108.87050967084687
+R_hard_040,hard,gpt-4o,30,0.05597907354684728,137.48674644723124
+R_hard_041,hard,gpt-4o,1,1.829831519223335e-06,9.148608949534378
+R_hard_041,hard,gpt-4o,5,1.8298315192399883e-06,30.98428760692223
+R_hard_041,hard,gpt-4o,10,1.8298315192621928e-06,59.3305495765862
+R_hard_041,hard,gpt-4o,20,0.026324097898911547,112.08501178386564
+R_hard_041,hard,gpt-4o,30,0.08708939859927435,135.71077452257708
+R_hard_042,hard,gpt-4o,1,4.367680913219818e-06,19.63770400854412
+R_hard_042,hard,gpt-4o,5,4.367680913219818e-06,32.347200722480636
+R_hard_042,hard,gpt-4o,10,4.3676809132142665e-06,46.64627426233547
+R_hard_042,hard,gpt-4o,20,4.367680913244798e-06,80.82918682913214
+R_hard_042,hard,gpt-4o,30,4.367680913253125e-06,116.89410199526615
+R_hard_043,hard,gpt-4o,1,3.589876342108278e-06,3.8141606745593606
+R_hard_043,hard,gpt-4o,5,3.589876342104115e-06,5.486581531400651
+R_hard_043,hard,gpt-4o,10,3.5898763421131353e-06,8.3467382178462
+R_hard_043,hard,gpt-4o,20,0.015512871901073704,51.899827064223906
+R_hard_043,hard,gpt-4o,30,0.08131191460071581,88.7302928693385
+R_hard_044,hard,gpt-4o,1,5.551115123125783e-17,6.7229431036891185
+R_hard_044,hard,gpt-4o,5,6.661338147750939e-17,19.381355553124138
+R_hard_044,hard,gpt-4o,10,0.005260000000000042,40.22167497403779
+R_hard_044,hard,gpt-4o,20,0.07322,70.19687562968396
+R_hard_044,hard,gpt-4o,30,0.09671333333333335,106.1120218238287
+R_hard_045,hard,gpt-4o,1,0.0,2.12415691682304
+R_hard_045,hard,gpt-4o,5,0.0,19.002160555476316
+R_hard_045,hard,gpt-4o,10,5.551115123125783e-18,43.150478279174784
+R_hard_045,hard,gpt-4o,20,0.013025000000000009,92.18825020454409
+R_hard_045,hard,gpt-4o,30,0.02605000000000001,113.7751001363627
+R_hard_046,hard,gpt-4o,1,1.2190909243203762e-07,12.990236717031394
+R_hard_046,hard,gpt-4o,5,0.01918407314545545,22.37275320864969
+R_hard_046,hard,gpt-4o,10,0.07897203657272774,21.214163482014083
+R_hard_046,hard,gpt-4o,20,0.10886601828636386,48.88295840194924
+R_hard_046,hard,gpt-4o,30,0.11883067885757592,61.84040560129948
+R_hard_047,hard,gpt-4o,1,1.5525192796905785e-06,12.372692580184491
+R_hard_047,hard,gpt-4o,5,1.5525192796905785e-06,30.10971325870674
+R_hard_047,hard,gpt-4o,10,1.552519279718334e-06,45.86756405567679
+R_hard_047,hard,gpt-4o,20,1.5525192797460896e-06,87.63896560971182
+R_hard_047,hard,gpt-4o,30,1.5525192797756955e-06,121.17784477919365
+R_hard_048,hard,gpt-4o,1,2.2479600220171037e-07,3.608149239057127
+R_hard_048,hard,gpt-4o,5,2.2479600225722152e-07,17.98719472129263
+R_hard_048,hard,gpt-4o,10,2.2479600227942598e-07,33.44083763161743
+R_hard_048,hard,gpt-4o,20,0.001473646117401467,71.56224818438756
+R_hard_048,hard,gpt-4o,30,0.0043990974116009775,114.08314285996471
+R_hard_049,hard,gpt-4o,1,5.551115123125783e-17,7.084546700268675
+R_hard_049,hard,gpt-4o,5,5.551115123125783e-17,26.843592246520963
+R_hard_049,hard,gpt-4o,10,0.0025000000000000465,58.23434357567892
+R_hard_049,hard,gpt-4o,20,0.02066500000000001,118.49094382688122
+R_hard_049,hard,gpt-4o,30,0.06998999999999998,128.2625025512542
+R_hard_050,hard,gpt-4o,1,3.558889549726274e-07,2.5519777564557558
+R_hard_050,hard,gpt-4o,5,3.558889549726274e-07,23.40535307101653
+R_hard_050,hard,gpt-4o,10,0.006711249122268481,48.61448421225502
+R_hard_050,hard,gpt-4o,20,0.014540624561134235,89.39101894301629
+R_hard_050,hard,gpt-4o,30,0.02953374970742282,115.26149596201086
+R_hard_051,hard,gpt-4o,1,2.724678007604009e-06,5.658981278409755
+R_hard_051,hard,gpt-4o,5,2.7246780075818044e-06,22.6017306847313
+R_hard_051,hard,gpt-4o,10,2.7246780075651513e-06,42.651427501998356
+R_hard_051,hard,gpt-4o,20,0.03456636233900378,86.90690891809875
+R_hard_051,hard,gpt-4o,30,0.07913424155933584,101.09414261206584
+R_hard_052,hard,gpt-4o,1,2.7318732910841526e-06,12.93983034333985
+R_hard_052,hard,gpt-4o,5,2.7318732910897036e-06,39.02933520908306
+R_hard_052,hard,gpt-4o,10,0.0007754586859619744,61.53424604564674
+R_hard_052,hard,gpt-4o,20,0.021132729342980973,98.54242048516683
+R_hard_052,hard,gpt-4o,30,0.03179848622865398,137.2040880061477
+R_hard_053,hard,gpt-4o,1,2.0140980259708563e-06,19.525658268311133
+R_hard_053,hard,gpt-4o,5,2.014098025993061e-06,23.752964843035947
+R_hard_053,hard,gpt-4o,10,0.028643409868618193,43.71776771301369
+R_hard_053,hard,gpt-4o,20,0.09824170493430906,65.75047695123475
+R_hard_053,hard,gpt-4o,30,0.12144113662287269,91.6039444238187

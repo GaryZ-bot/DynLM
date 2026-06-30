@@ -1,0 +1,20 @@
+
+prameter inference
+
+def prompt_inverse(task: InverseTask, reveal_equations: bool = False) -> str:
+    return f"""
+Task: INVERSE LATENT-PARAMETER INFERENCE.
+Infer the two hidden parameters from the observed trajectory.
+
+{mechanism_description(reveal_equations)}
+
+Hidden parameters to estimate:
+1. damage_rate: how quickly fatigue grows under stretch. Plausible range: {DAMAGE_RATE_RANGE[0]:.2f} to {DAMAGE_RATE_RANGE[1]:.2f}.
+2. recovery_rate: how quickly fatigue decreases during release/rest. Plausible range: {RECOVERY_RATE_RANGE[0]:.2f} to {RECOVERY_RATE_RANGE[1]:.2f}.
+
+Observed trajectory:
+{rows_to_table(task.observed_history)}
+
+Return only valid JSON in exactly this format:
+{{"damage_rate": <number>, "recovery_rate": <number>}}
+""".strip()

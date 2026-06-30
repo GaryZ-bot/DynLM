@@ -1,0 +1,3 @@
+{"task_id": "F_easy_000", "model": "ExampleLLM", "output": "{\"strain_next\": 0.120, \"resistance_next\": 130.5}"}
+{"task_id": "I_easy_000", "model": "ExampleLLM", "output": "{\"fatigue\": 0.25}"}
+{"task_id": "R_easy_000", "model": "ExampleLLM", "output": "{\"strain_predictions\": [0.10, 0.12], \"resistance_predictions\": [120.0, 125.0]}"}

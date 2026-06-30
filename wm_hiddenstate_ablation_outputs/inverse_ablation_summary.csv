@@ -1,0 +1,76 @@
+ablation_name,difficulty,model,inverse_score,inverse_normalized_error,inverse_gap,inverse_mask_mode,reveal_equations
+A0_gap0_no_mask_noeq,easy,Oracle simulator,1.0,0.0,0,no_mask,False
+A0_gap0_no_mask_noeq,easy,Curve-fit baseline,0.7554347388470342,0.3316522986079731,0,no_mask,False
+A0_gap0_no_mask_noeq,easy,Last-value baseline,0.7554347388470342,0.3316522986079731,0,no_mask,False
+A0_gap0_no_mask_noeq,easy,gpt-4o,0.3021813751993923,3.34963687850438,0,no_mask,False
+A0_gap0_no_mask_noeq,easy,Random baseline,0.2424013206348658,5.890659759705933,0,no_mask,False
+A0_gap0_no_mask_noeq,hard,Oracle simulator,1.0,0.0,0,no_mask,False
+A0_gap0_no_mask_noeq,hard,Curve-fit baseline,0.4011033845015179,1.8873138229471396,0,no_mask,False
+A0_gap0_no_mask_noeq,hard,Last-value baseline,0.4011033845015179,1.8873138229471396,0,no_mask,False
+A0_gap0_no_mask_noeq,hard,gpt-4o,0.3360516232964779,2.864236369979672,0,no_mask,False
+A0_gap0_no_mask_noeq,hard,Random baseline,0.3242710969365933,3.350680186214531,0,no_mask,False
+A0_gap0_no_mask_noeq,medium,Oracle simulator,1.0,0.0,0,no_mask,False
+A0_gap0_no_mask_noeq,medium,Curve-fit baseline,0.7859364495570361,0.3154838183936416,0,no_mask,False
+A0_gap0_no_mask_noeq,medium,Last-value baseline,0.7859364495570361,0.3154838183936416,0,no_mask,False
+A0_gap0_no_mask_noeq,medium,gpt-4o,0.2501283139923094,4.096356232363155,0,no_mask,False
+A0_gap0_no_mask_noeq,medium,Random baseline,0.2196726732229314,5.571016751653293,0,no_mask,False
+A1_gap3_partial_noeq,easy,Oracle simulator,1.0,0.0,3,partial_resistance,False
+A1_gap3_partial_noeq,easy,Curve-fit baseline,0.7682127387940612,0.309418093937818,3,partial_resistance,False
+A1_gap3_partial_noeq,easy,Last-value baseline,0.7428409681671408,0.3528415892190986,3,partial_resistance,False
+A1_gap3_partial_noeq,easy,Random baseline,0.2424013206348658,5.890659759705933,3,partial_resistance,False
+A1_gap3_partial_noeq,easy,gpt-4o,0.1962021946599167,4.682632909884848,3,partial_resistance,False
+A1_gap3_partial_noeq,hard,Oracle simulator,1.0,0.0,3,partial_resistance,False
+A1_gap3_partial_noeq,hard,Last-value baseline,0.5909830117837586,0.8183843268599955,3,partial_resistance,False
+A1_gap3_partial_noeq,hard,Curve-fit baseline,0.4417209509869788,1.542994025332816,3,partial_resistance,False
+A1_gap3_partial_noeq,hard,Random baseline,0.3242710969365933,3.350680186214531,3,partial_resistance,False
+A1_gap3_partial_noeq,hard,gpt-4o,0.2156814899129047,3.878437628148968,3,partial_resistance,False
+A1_gap3_partial_noeq,medium,Oracle simulator,1.0,0.0,3,partial_resistance,False
+A1_gap3_partial_noeq,medium,Curve-fit baseline,0.8092897787699836,0.2695146915219235,3,partial_resistance,False
+A1_gap3_partial_noeq,medium,Last-value baseline,0.7211509373652982,0.4447076604886166,3,partial_resistance,False
+A1_gap3_partial_noeq,medium,Random baseline,0.2196726732229314,5.571016751653293,3,partial_resistance,False
+A1_gap3_partial_noeq,medium,gpt-4o,0.1813813420215647,4.7908006768076,3,partial_resistance,False
+A2_gap5_partial_noeq_main,easy,Oracle simulator,1.0,0.0,5,partial_resistance,False
+A2_gap5_partial_noeq_main,easy,Curve-fit baseline,0.7862776600412855,0.2780130275314005,5,partial_resistance,False
+A2_gap5_partial_noeq_main,easy,Last-value baseline,0.7417626133889539,0.3545972689509563,5,partial_resistance,False
+A2_gap5_partial_noeq_main,easy,Random baseline,0.2424013206348658,5.890659759705933,5,partial_resistance,False
+A2_gap5_partial_noeq_main,easy,gpt-4o,0.1896076285067513,4.939577354329293,5,partial_resistance,False
+A2_gap5_partial_noeq_main,hard,Oracle simulator,1.0,0.0,5,partial_resistance,False
+A2_gap5_partial_noeq_main,hard,Last-value baseline,0.5419051324122782,1.1023135877981534,5,partial_resistance,False
+A2_gap5_partial_noeq_main,hard,Curve-fit baseline,0.4751869107051961,1.2843776882615474,5,partial_resistance,False
+A2_gap5_partial_noeq_main,hard,Random baseline,0.3242710969365933,3.350680186214531,5,partial_resistance,False
+A2_gap5_partial_noeq_main,hard,gpt-4o,0.2366157629439929,3.524270961482301,5,partial_resistance,False
+A2_gap5_partial_noeq_main,medium,Oracle simulator,1.0,0.0,5,partial_resistance,False
+A2_gap5_partial_noeq_main,medium,Curve-fit baseline,0.8240998974747697,0.2389442645138958,5,partial_resistance,False
+A2_gap5_partial_noeq_main,medium,Last-value baseline,0.6571863307099582,0.5895747837577275,5,partial_resistance,False
+A2_gap5_partial_noeq_main,medium,Random baseline,0.2196726732229314,5.571016751653293,5,partial_resistance,False
+A2_gap5_partial_noeq_main,medium,gpt-4o,0.1645035303356186,5.3463562323631555,5,partial_resistance,False
+A3_gap8_all_masked_noeq,easy,Oracle simulator,1.0,0.0,8,all_masked,False
+A3_gap8_all_masked_noeq,easy,Curve-fit baseline,0.8455599255154961,0.1930621581877389,8,all_masked,False
+A3_gap8_all_masked_noeq,easy,Last-value baseline,0.7421303843512599,0.355392683756105,8,all_masked,False
+A3_gap8_all_masked_noeq,easy,Random baseline,0.2424013206348658,5.890659759705933,8,all_masked,False
+A3_gap8_all_masked_noeq,easy,gpt-4o,0.1748156274828595,5.015966243218182,8,all_masked,False
+A3_gap8_all_masked_noeq,hard,Oracle simulator,1.0,0.0,8,all_masked,False
+A3_gap8_all_masked_noeq,hard,Curve-fit baseline,0.5940099032810348,0.7695398445882439,8,all_masked,False
+A3_gap8_all_masked_noeq,hard,Random baseline,0.3242710969365933,3.350680186214531,8,all_masked,False
+A3_gap8_all_masked_noeq,hard,Last-value baseline,0.3111896360854114,2.516937255441761,8,all_masked,False
+A3_gap8_all_masked_noeq,hard,gpt-4o,0.2247985204925023,3.66315985037119,8,all_masked,False
+A3_gap8_all_masked_noeq,medium,Oracle simulator,1.0,0.0,8,all_masked,False
+A3_gap8_all_masked_noeq,medium,Curve-fit baseline,0.8803729345807692,0.1511296873148798,8,all_masked,False
+A3_gap8_all_masked_noeq,medium,Last-value baseline,0.5785190338342908,0.8048320258854349,8,all_masked,False
+A3_gap8_all_masked_noeq,medium,Random baseline,0.2196726732229314,5.571016751653293,8,all_masked,False
+A3_gap8_all_masked_noeq,medium,gpt-4o,0.1736537083832548,4.9088562323631555,8,all_masked,False
+A4_gap5_partial_reveal_eq,easy,Oracle simulator,1.0,0.0,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,easy,Curve-fit baseline,0.7862776600412855,0.2780130275314005,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,easy,Last-value baseline,0.7417626133889539,0.3545972689509563,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,easy,gpt-4o,0.2550346077760107,3.2736051321070705,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,easy,Random baseline,0.2424013206348658,5.890659759705933,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,hard,Oracle simulator,1.0,0.0,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,hard,Last-value baseline,0.5419051324122782,1.1023135877981534,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,hard,Curve-fit baseline,0.4751869107051961,1.2843776882615474,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,hard,Random baseline,0.3242710969365933,3.350680186214531,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,hard,gpt-4o,0.2224878132567173,3.7131598503711896,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,medium,Oracle simulator,1.0,0.0,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,medium,Curve-fit baseline,0.8240998974747697,0.2389442645138958,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,medium,Last-value baseline,0.6571863307099582,0.5895747837577275,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,medium,gpt-4o,0.2334277556918002,3.526911787918711,5,partial_resistance,True
+A4_gap5_partial_reveal_eq,medium,Random baseline,0.2196726732229314,5.571016751653293,5,partial_resistance,True

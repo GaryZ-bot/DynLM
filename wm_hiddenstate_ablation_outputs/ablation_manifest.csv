@@ -1,0 +1,6 @@
+output_dir,name,inverse_gap,inverse_mask_mode,inverse_visible_interval,reveal_equations,description
+wm_hiddenstate_ablation_outputs/A0_gap0_no_mask_noeq,A0_gap0_no_mask_noeq,0,no_mask,1,False,Full current observation. Checks whether fatigue can be estimated when no recent resistance is hidden.
+wm_hiddenstate_ablation_outputs/A1_gap3_partial_noeq,A1_gap3_partial_noeq,3,partial_resistance,2,False,Short observation gap with sparse intermediate anchors.
+wm_hiddenstate_ablation_outputs/A2_gap5_partial_noeq_main,A2_gap5_partial_noeq_main,5,partial_resistance,3,False,"Recommended main hidden-state condition: final resistance masked, sparse recent anchors visible."
+wm_hiddenstate_ablation_outputs/A3_gap8_all_masked_noeq,A3_gap8_all_masked_noeq,8,all_masked,3,False,Hard hidden-state condition: recent resistance fully hidden.
+wm_hiddenstate_ablation_outputs/A4_gap5_partial_reveal_eq,A4_gap5_partial_reveal_eq,5,partial_resistance,3,True,Equation-reveal ablation for the recommended main condition.

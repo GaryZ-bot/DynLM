@@ -1,0 +1,80 @@
+parameter inference trial 1:
+
+World Model Score preview:
+              model difficulty  forward  inverse  rollout  world_model_score
+   Oracle simulator       easy 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline       easy 0.979136 0.383508 0.906387           0.771348
+             gpt-4o       easy 0.967338 0.372874 0.841622           0.738712
+Last-value baseline       easy 0.833475 0.333502 0.708024           0.633303
+    Random baseline       easy 0.144030 0.329996 0.186514           0.216813
+   Oracle simulator       hard 1.000000 1.000000 1.000000           1.000000
+             gpt-4o       hard 0.785539 0.353894 0.185257           0.415933
+Last-value baseline       hard 0.658923 0.346191 0.185140           0.375590
+ Curve-fit baseline       hard 0.399650 0.502184 0.157228           0.333442
+    Random baseline       hard 0.121994 0.342276 0.094682           0.177154
+   Oracle simulator     medium 1.000000 1.000000 1.000000           1.000000
+             gpt-4o     medium 0.927054 0.501472 0.637568           0.683585
+Last-value baseline     medium 0.785985 0.603422 0.518538           0.624237
+ Curve-fit baseline     medium 0.865557 0.319607 0.599707           0.595432
+    Random baseline     medium 0.206490 0.422288 0.202890           0.269789
+
+
+
+Hiden State v1
+
+World Model Score preview:
+              model difficulty  forward  inverse  rollout  world_model_score
+   Oracle simulator       easy 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline       easy 0.942365 0.735200 0.784879           0.817221
+             gpt-4o       easy 0.968898 0.162881 0.797312           0.658458
+Last-value baseline       easy 0.804265 0.269815 0.679499           0.594024
+    Random baseline       easy 0.171375 0.260619 0.189570           0.205426
+   Oracle simulator       hard 1.000000 1.000000 1.000000           1.000000
+Last-value baseline       hard 0.757843 0.507391 0.197667           0.458637
+             gpt-4o       hard 0.850441 0.225383 0.203855           0.404289
+ Curve-fit baseline       hard 0.512994 0.528355 0.181937           0.385180
+    Random baseline       hard 0.157321 0.314054 0.109967           0.185399
+   Oracle simulator     medium 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline     medium 0.847927 0.904202 0.472509           0.714642
+             gpt-4o     medium 0.913467 0.159267 0.514164           0.527486
+Last-value baseline     medium 0.741838 0.352428 0.424572           0.498109
+Random baseline     medium 0.178000 0.232454 0.200948           0.203515
+
+Hiden state v2:
+World Model Score preview:
+              model difficulty  forward  inverse  rollout  world_model_score
+   Oracle simulator       easy 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline       easy 0.979136 0.786278 0.906387           0.892179
+Last-value baseline       easy 0.833475 0.741763 0.708024           0.755781
+             gpt-4o       easy 0.965611 0.192393 0.872884           0.696555
+    Random baseline       easy 0.144030 0.242401 0.188602           0.191370
+   Oracle simulator       hard 1.000000 1.000000 1.000000           1.000000
+Last-value baseline       hard 0.658923 0.541905 0.185140           0.434304
+             gpt-4o       hard 0.778291 0.237762 0.179595           0.376654
+ Curve-fit baseline       hard 0.399650 0.475187 0.157228           0.325343
+    Random baseline       hard 0.121994 0.324271 0.095576           0.172110
+   Oracle simulator     medium 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline     medium 0.865557 0.824100 0.599707           0.746780
+Last-value baseline     medium 0.785985 0.657186 0.518538           0.640366
+             gpt-4o     medium 0.935061 0.167730 0.614714           0.576723
+    Random baseline     medium 0.206490 0.219673 0.205692           0.210125
+
+
+Parameter inference trial 2
+World Model Score preview:
+              model difficulty  forward  inverse  rollout  world_model_score
+   Oracle simulator       easy 1.000000 1.000000 1.000000           1.000000
+ Curve-fit baseline       easy 0.979136 0.383508 0.906387           0.771348
+             gpt-4o       easy 0.963767 0.372874 0.874489           0.750788
+Last-value baseline       easy 0.833475 0.333502 0.708024           0.633303
+    Random baseline       easy 0.144030 0.329996 0.186514           0.216813
+   Oracle simulator       hard 1.000000 1.000000 1.000000           1.000000
+             gpt-4o       hard 0.783160 0.343272 0.178562           0.409355
+Last-value baseline       hard 0.658923 0.346191 0.185140           0.375590
+ Curve-fit baseline       hard 0.399650 0.502184 0.157228           0.333442
+    Random baseline       hard 0.121994 0.342276 0.094682           0.177154
+   Oracle simulator     medium 1.000000 1.000000 1.000000           1.000000
+             gpt-4o     medium 0.932892 0.508602 0.626706           0.683130
+Last-value baseline     medium 0.785985 0.603422 0.518538           0.624237
+ Curve-fit baseline     medium 0.865557 0.319607 0.599707           0.595432
+    Random baseline     medium 0.206490 0.422288 0.202890           0.269789
